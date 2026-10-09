@@ -1,0 +1,7260 @@
+[
+  {
+    "old_id": "C4101221",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify global nav bar items",
+    "sources": [
+      "playwright-automation\\tests\\nav_bar.spec.ts:4",
+      "playwright-automation\\tests\\nav_bar.spec.ts:75"
+    ]
+  },
+  {
+    "old_id": "C4101222",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify global nav bar items",
+    "sources": [
+      "playwright-automation\\tests\\nav_bar.spec.ts:4",
+      "playwright-automation\\tests\\nav_bar.spec.ts:75"
+    ]
+  },
+  {
+    "old_id": "C4101224",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify global nav bar items",
+    "sources": [
+      "playwright-automation\\tests\\nav_bar.spec.ts:4",
+      "playwright-automation\\tests\\nav_bar.spec.ts:75"
+    ]
+  },
+  {
+    "old_id": "C4101225",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify global nav bar items",
+    "sources": [
+      "playwright-automation\\tests\\nav_bar.spec.ts:4",
+      "playwright-automation\\tests\\nav_bar.spec.ts:75"
+    ]
+  },
+  {
+    "old_id": "C4101226",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify global nav bar items",
+    "sources": [
+      "playwright-automation\\tests\\nav_bar.spec.ts:4",
+      "playwright-automation\\tests\\nav_bar.spec.ts:75"
+    ]
+  },
+  {
+    "old_id": "C4101227",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user can navigate to different pages from the nav bar",
+    "sources": [
+      "playwright-automation\\tests\\nav_bar.spec.ts:4",
+      "playwright-automation\\tests\\nav_bar.spec.ts:75"
+    ]
+  },
+  {
+    "old_id": "C4101228",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "verify user can navigate to different pages from the nav bar",
+    "sources": [
+      "playwright-automation\\tests\\nav_bar.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4101229",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "verify user can navigate to different pages from the nav bar",
+    "sources": [
+      "playwright-automation\\tests\\nav_bar.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4101230",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user can navigate to different pages from the nav bar",
+    "sources": [
+      "playwright-automation\\tests\\nav_bar.spec.ts:4",
+      "playwright-automation\\tests\\nav_bar.spec.ts:75"
+    ]
+  },
+  {
+    "old_id": "C4101231",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "verify user can navigate to different pages from the nav bar",
+    "sources": [
+      "playwright-automation\\tests\\nav_bar.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4101232",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user can navigate to different pages from the nav bar",
+    "sources": [
+      "playwright-automation\\tests\\nav_bar.spec.ts:4",
+      "playwright-automation\\tests\\nav_bar.spec.ts:75"
+    ]
+  },
+  {
+    "old_id": "C4101233",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to open the filter component on dashboard",
+    "sources": [
+      "playwright-automation\\tests\\filters.spec.ts:5",
+      "playwright-automation\\tests\\filters.spec.ts:305"
+    ]
+  },
+  {
+    "old_id": "C4101234",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to open the filter component on dashboard",
+    "sources": [
+      "playwright-automation\\tests\\filters.spec.ts:5",
+      "playwright-automation\\tests\\filters.spec.ts:305"
+    ]
+  },
+  {
+    "old_id": "C4101235",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to apply and reset filters dashboard",
+    "sources": [
+      "playwright-automation\\tests\\filters.spec.ts:5",
+      "playwright-automation\\tests\\filters.spec.ts:305"
+    ]
+  },
+  {
+    "old_id": "C4101236",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to apply and reset filters dashboard",
+    "sources": [
+      "playwright-automation\\tests\\filters.spec.ts:5",
+      "playwright-automation\\tests\\filters.spec.ts:305"
+    ]
+  },
+  {
+    "old_id": "C4101237",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to open the filter component on dashboard",
+    "sources": [
+      "playwright-automation\\tests\\filters.spec.ts:5",
+      "playwright-automation\\tests\\filters.spec.ts:305"
+    ]
+  },
+  {
+    "old_id": "C4101238",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to apply and reset filters dashboard",
+    "sources": [
+      "playwright-automation\\tests\\filters.spec.ts:5",
+      "playwright-automation\\tests\\filters.spec.ts:305"
+    ]
+  },
+  {
+    "old_id": "C4101240",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify summary flex headers on dashboard",
+    "sources": [
+      "playwright-automation\\tests\\dashboard.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4101241",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify summary flex headers on dashboard",
+    "sources": [
+      "playwright-automation\\tests\\dashboard.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4101246",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify summary flex headers show the colours via API- Blue for promos",
+    "sources": [
+      "playwright-automation\\tests\\dashboard.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4101258",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify review rate breakdown chart heading default value dropdown items and navigate to pricing page",
+    "sources": [
+      "playwright-automation\\tests\\dashboard.spec.ts:337"
+    ]
+  },
+  {
+    "old_id": "C4101259",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify review rate breakdown chart heading default value dropdown items and navigate to pricing page",
+    "sources": [
+      "playwright-automation\\tests\\dashboard.spec.ts:337"
+    ]
+  },
+  {
+    "old_id": "C4101260",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify review rate breakdown chart heading default value dropdown items and navigate to pricing page",
+    "sources": [
+      "playwright-automation\\tests\\dashboard.spec.ts:337"
+    ]
+  },
+  {
+    "old_id": "C4101263",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the spill with pc tile can navigate the user to pricing page with filters",
+    "sources": [
+      "playwright-automation\\tests\\dashboard.spec.ts:142"
+    ]
+  },
+  {
+    "old_id": "C4101264",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the spill with pc tile can navigate the user to pricing page with filters",
+    "sources": [
+      "playwright-automation\\tests\\dashboard.spec.ts:142"
+    ]
+  },
+  {
+    "old_id": "C4101265",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the spill with tactical tile can navigate the user to pricing page with filters",
+    "sources": [
+      "playwright-automation\\tests\\dashboard.spec.ts:142"
+    ]
+  },
+  {
+    "old_id": "C4101266",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the spill with tactical tile can navigate the user to pricing page with filters",
+    "sources": [
+      "playwright-automation\\tests\\dashboard.spec.ts:142"
+    ]
+  },
+  {
+    "old_id": "C4101267",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the no change tile can navigate the user to pricing page with filters",
+    "sources": [
+      "playwright-automation\\tests\\dashboard.spec.ts:142"
+    ]
+  },
+  {
+    "old_id": "C4101268",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the no change tile can navigate the user to pricing page with filters",
+    "sources": [
+      "playwright-automation\\tests\\dashboard.spec.ts:142"
+    ]
+  },
+  {
+    "old_id": "C4101269",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the blackout tile can navigate the user to pricing page with filters",
+    "sources": [
+      "playwright-automation\\tests\\dashboard.spec.ts:142"
+    ]
+  },
+  {
+    "old_id": "C4101270",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the blackout tile can navigate the user to pricing page with filters",
+    "sources": [
+      "playwright-automation\\tests\\dashboard.spec.ts:142"
+    ]
+  },
+  {
+    "old_id": "C4101271",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the spoil with pc tile can navigate the user to pricing page with filters",
+    "sources": [
+      "playwright-automation\\tests\\dashboard.spec.ts:142"
+    ]
+  },
+  {
+    "old_id": "C4101272",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the spoil with pc tile can navigate the user to pricing page with filters",
+    "sources": [
+      "playwright-automation\\tests\\dashboard.spec.ts:142"
+    ]
+  },
+  {
+    "old_id": "C4101273",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the spoil with tactical tile can navigate the user to pricing page with filters",
+    "sources": [
+      "playwright-automation\\tests\\dashboard.spec.ts:142"
+    ]
+  },
+  {
+    "old_id": "C4101274",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the spoil with tactical tile can navigate the user to pricing page with filters",
+    "sources": [
+      "playwright-automation\\tests\\dashboard.spec.ts:142"
+    ]
+  },
+  {
+    "old_id": "C4101275",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the Opportunity breakdown component heading sub-heading and tiles",
+    "sources": [
+      "playwright-automation\\tests\\dashboard.spec.ts:142"
+    ]
+  },
+  {
+    "old_id": "C4101279",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify review rate breakdown chart different view by options",
+    "sources": [
+      "playwright-automation\\tests\\dashboard.spec.ts:337"
+    ]
+  },
+  {
+    "old_id": "C4101280",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify review rate breakdown chart different view by options",
+    "sources": [
+      "playwright-automation\\tests\\dashboard.spec.ts:337"
+    ]
+  },
+  {
+    "old_id": "C4101283",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify review rate breakdown chart different view by options",
+    "sources": [
+      "playwright-automation\\tests\\dashboard.spec.ts:337"
+    ]
+  },
+  {
+    "old_id": "C4101284",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the my priority component and user navigates to pricing page",
+    "sources": [
+      "playwright-automation\\tests\\dashboard.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4101285",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the my priority component and user navigates to pricing page",
+    "sources": [
+      "playwright-automation\\tests\\dashboard.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4101286",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the my priority component and user navigates to pricing page",
+    "sources": [
+      "playwright-automation\\tests\\dashboard.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4101287",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the pricing page components with toggle on and off",
+    "sources": [
+      "playwright-automation\\tests\\pricing.spec.ts:5",
+      "playwright-automation\\tests\\pricing.spec.ts:292"
+    ]
+  },
+  {
+    "old_id": "C4101288",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the pricing page components with toggle on and off",
+    "sources": [
+      "playwright-automation\\tests\\pricing.spec.ts:5",
+      "playwright-automation\\tests\\pricing.spec.ts:292"
+    ]
+  },
+  {
+    "old_id": "C4101289",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the pricing page components with toggle on and off",
+    "sources": [
+      "playwright-automation\\tests\\pricing.spec.ts:5",
+      "playwright-automation\\tests\\pricing.spec.ts:292"
+    ]
+  },
+  {
+    "old_id": "C4101290",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify that the user is able to apply filters",
+    "sources": [
+      "playwright-automation\\tests\\pricing.spec.ts:5",
+      "playwright-automation\\tests\\pricing.spec.ts:292"
+    ]
+  },
+  {
+    "old_id": "C4101291",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view the action modal in sailing depp dive page from action column",
+    "sources": [
+      "playwright-automation\\tests\\pricing.spec.ts:674"
+    ]
+  },
+  {
+    "old_id": "C4101292",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view the action modal in pricing page from overbooking-opportunity column",
+    "sources": [
+      "playwright-automation\\tests\\pricing.spec.ts:674"
+    ]
+  },
+  {
+    "old_id": "C4101293",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view the action modal in pricing page from pricing-opportunity column",
+    "sources": [
+      "playwright-automation\\tests\\pricing.spec.ts:674"
+    ]
+  },
+  {
+    "old_id": "C4101295",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view the action modal in sailing depp dive page from action column",
+    "sources": [
+      "playwright-automation\\tests\\pricing.spec.ts:674"
+    ]
+  },
+  {
+    "old_id": "C4101296",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view the action modal in sailing depp dive page from action column",
+    "sources": [
+      "playwright-automation\\tests\\pricing.spec.ts:674"
+    ]
+  },
+  {
+    "old_id": "C4101297",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view the action modal in sailing depp dive page from action column",
+    "sources": [
+      "playwright-automation\\tests\\pricing.spec.ts:674"
+    ]
+  },
+  {
+    "old_id": "C4101298",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view the action modal in sailing depp dive page from action column",
+    "sources": [
+      "playwright-automation\\tests\\pricing.spec.ts:674"
+    ]
+  },
+  {
+    "old_id": "C4101306",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the pricing page- pattern finder",
+    "sources": [
+      "playwright-automation\\tests\\pricing.spec.ts:506"
+    ]
+  },
+  {
+    "old_id": "C4101307",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the pricing page- pattern finder",
+    "sources": [
+      "playwright-automation\\tests\\pricing.spec.ts:506"
+    ]
+  },
+  {
+    "old_id": "C4101308",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the pricing page- pattern finder",
+    "sources": [
+      "playwright-automation\\tests\\pricing.spec.ts:506"
+    ]
+  },
+  {
+    "old_id": "C4101311",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify that the saved view popup elements on prio pane",
+    "sources": [
+      "playwright-automation\\tests\\saved_view.spec.ts:12"
+    ]
+  },
+  {
+    "old_id": "4101318",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard filter",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_dashboard.py:19"
+    ]
+  },
+  {
+    "old_id": "4101319",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard summary",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_dashboard.py:30"
+    ]
+  },
+  {
+    "old_id": "4101320",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard rate split region",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_dashboard.py:40"
+    ]
+  },
+  {
+    "old_id": "4101321",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard rate split ship class",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_dashboard.py:50"
+    ]
+  },
+  {
+    "old_id": "4101322",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard rate split voyage length",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_dashboard.py:60"
+    ]
+  },
+  {
+    "old_id": "4101323",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard rate split booking horizon",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_dashboard.py:70"
+    ]
+  },
+  {
+    "old_id": "4101324",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard rate split meta category",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_dashboard.py:80"
+    ]
+  },
+  {
+    "old_id": "4101325",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard opportunity breakdown region",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_dashboard.py:90"
+    ]
+  },
+  {
+    "old_id": "4101326",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard opportunity breakdown ship class",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_dashboard.py:100"
+    ]
+  },
+  {
+    "old_id": "4101327",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard opportunity breakdown voyage length",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_dashboard.py:110"
+    ]
+  },
+  {
+    "old_id": "4101328",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard opportunity breakdown booking horizon",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_dashboard.py:120"
+    ]
+  },
+  {
+    "old_id": "4101329",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard opportunity breakdown meta category",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_dashboard.py:130"
+    ]
+  },
+  {
+    "old_id": "4101330",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter shipclass single select",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_dashboard.py:139"
+    ]
+  },
+  {
+    "old_id": "4101331",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter shipclass multi select",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_dashboard.py:164"
+    ]
+  },
+  {
+    "old_id": "4101332",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter ships single select",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_dashboard.py:189"
+    ]
+  },
+  {
+    "old_id": "4101333",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter ships multi select",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_dashboard.py:214"
+    ]
+  },
+  {
+    "old_id": "4101334",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter departure date range",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_dashboard.py:239"
+    ]
+  },
+  {
+    "old_id": "4101335",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter booking horizon single select",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_dashboard.py:264"
+    ]
+  },
+  {
+    "old_id": "4101336",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter booking horizon multi select",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_dashboard.py:289"
+    ]
+  },
+  {
+    "old_id": "4101337",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter region single select",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_dashboard.py:314"
+    ]
+  },
+  {
+    "old_id": "4101338",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter region multi select",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_dashboard.py:339"
+    ]
+  },
+  {
+    "old_id": "4101339",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter market single select",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_dashboard.py:364"
+    ]
+  },
+  {
+    "old_id": "4101340",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter market multi select",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_dashboard.py:389"
+    ]
+  },
+  {
+    "old_id": "4101341",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter voyageLengths single select",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_dashboard.py:414"
+    ]
+  },
+  {
+    "old_id": "4101342",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter voyageLengths multi select",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_dashboard.py:439"
+    ]
+  },
+  {
+    "old_id": "4101343",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter metaCategories single select",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_dashboard.py:464"
+    ]
+  },
+  {
+    "old_id": "4101344",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter metaCategories multi select",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_dashboard.py:489"
+    ]
+  },
+  {
+    "old_id": "4101348",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard all global filter",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_dashboard.py:514"
+    ]
+  },
+  {
+    "old_id": "4101349",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter shipclass invalid option",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_dashboard.py:539"
+    ]
+  },
+  {
+    "old_id": "4101350",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter shipclass outOfBound option",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_dashboard.py:548"
+    ]
+  },
+  {
+    "old_id": "4101351",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter ships invalid option",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_dashboard.py:557"
+    ]
+  },
+  {
+    "old_id": "4101352",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter ships outOfBound option",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_dashboard.py:566"
+    ]
+  },
+  {
+    "old_id": "4101353",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter departure date range invalid option",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_dashboard.py:575"
+    ]
+  },
+  {
+    "old_id": "4101354",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter departure date range outOfBound option",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_dashboard.py:584"
+    ]
+  },
+  {
+    "old_id": "4101355",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter booking horizon invalid option",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_dashboard.py:593"
+    ]
+  },
+  {
+    "old_id": "4101356",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter booking horizon outOfBound option",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_dashboard.py:602"
+    ]
+  },
+  {
+    "old_id": "4101357",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter region invalid option",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_dashboard.py:611"
+    ]
+  },
+  {
+    "old_id": "4101358",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter region outOfBound option",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_dashboard.py:620"
+    ]
+  },
+  {
+    "old_id": "4101359",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter markets invalid option",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_dashboard.py:629"
+    ]
+  },
+  {
+    "old_id": "4101360",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter markets outOfBound option",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_dashboard.py:638"
+    ]
+  },
+  {
+    "old_id": "4101361",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter voyageLengths invalid option",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_dashboard.py:647"
+    ]
+  },
+  {
+    "old_id": "4101362",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter voyageLengths outOfBound option",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_dashboard.py:656"
+    ]
+  },
+  {
+    "old_id": "4101363",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter metaCategories invalid option",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_dashboard.py:665"
+    ]
+  },
+  {
+    "old_id": "4101364",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter metaCategories outOfBound option",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_dashboard.py:674"
+    ]
+  },
+  {
+    "old_id": "4101369",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing page 1",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_pricing.py:21"
+    ]
+  },
+  {
+    "old_id": "4101370",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing page 2",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_pricing.py:28"
+    ]
+  },
+  {
+    "old_id": "4101371",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing page 3",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_pricing.py:35"
+    ]
+  },
+  {
+    "old_id": "4101372",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing page 4",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_pricing.py:42"
+    ]
+  },
+  {
+    "old_id": "4101374",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter voyage name",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_pricing.py:49"
+    ]
+  },
+  {
+    "old_id": "4101375",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter dept date",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_pricing.py:56"
+    ]
+  },
+  {
+    "old_id": "4101376",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter voyage length",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_pricing.py:63"
+    ]
+  },
+  {
+    "old_id": "4101377",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter rev opp",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_pricing.py:70"
+    ]
+  },
+  {
+    "old_id": "4101378",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter priority",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_pricing.py:77"
+    ]
+  },
+  {
+    "old_id": "4101379",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter blackout true",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_pricing.py:84"
+    ]
+  },
+  {
+    "old_id": "4101380",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter blackout false",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_pricing.py:90"
+    ]
+  },
+  {
+    "old_id": "4101381",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter boLiftDate blank",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_pricing.py:97"
+    ]
+  },
+  {
+    "old_id": "4101382",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter boLiftDate notBlank",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_pricing.py:104"
+    ]
+  },
+  {
+    "old_id": "4101383",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter meta",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_pricing.py:111"
+    ]
+  },
+  {
+    "old_id": "4101384",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter opportunity spill",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_pricing.py:118"
+    ]
+  },
+  {
+    "old_id": "4101385",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter opportunity spoil",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_pricing.py:124"
+    ]
+  },
+  {
+    "old_id": "4101386",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter opportunity noChange",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_pricing.py:131"
+    ]
+  },
+  {
+    "old_id": "4101387",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter overbookingOpportunity true",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_pricing.py:138"
+    ]
+  },
+  {
+    "old_id": "4101388",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter overbookingOpportunity false",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_pricing.py:145"
+    ]
+  },
+  {
+    "old_id": "4101389",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter pricingOpportunity true",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_pricing.py:153"
+    ]
+  },
+  {
+    "old_id": "4101390",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter pricingOpportunity false",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_pricing.py:160"
+    ]
+  },
+  {
+    "old_id": "4101391",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter sailawayOpportunity true",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_pricing.py:167"
+    ]
+  },
+  {
+    "old_id": "4101392",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter sailawayOpportunity false",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_pricing.py:174"
+    ]
+  },
+  {
+    "old_id": "C4108883",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to navigate to voyage deep dive page and navigate to different tabs",
+    "sources": [
+      "playwright-automation\\tests\\voyage_deep_dive.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4108884",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to navigate to voyage deep dive page and navigate to different tabs",
+    "sources": [
+      "playwright-automation\\tests\\voyage_deep_dive.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4108885",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to navigate to voyage deep dive page and navigate to different tabs",
+    "sources": [
+      "playwright-automation\\tests\\voyage_deep_dive.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4108886",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to navigate to voyage deep dive page and navigate to different tabs",
+    "sources": [
+      "playwright-automation\\tests\\voyage_deep_dive.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4108887",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the grid headers for the VI- cabin",
+    "sources": [
+      "playwright-automation\\tests\\vdd_cabin.spec.ts:5"
+    ]
+  },
+  {
+    "old_id": "C4108888",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the grid headers for the VI- cabin",
+    "sources": [
+      "playwright-automation\\tests\\vdd_cabin.spec.ts:5"
+    ]
+  },
+  {
+    "old_id": "C4108889",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify user is able to input and reset the data in VI- cabin",
+    "sources": [
+      "playwright-automation\\tests\\vdd_cabin.spec.ts:5"
+    ]
+  },
+  {
+    "old_id": "C4108890",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify user is able to input and reset the data in VI- cabin",
+    "sources": [
+      "playwright-automation\\tests\\vdd_cabin.spec.ts:5"
+    ]
+  },
+  {
+    "old_id": "C4108891",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the grid headers for the Meta- cabin",
+    "sources": [
+      "playwright-automation\\tests\\vdd_cabin.spec.ts:438"
+    ]
+  },
+  {
+    "old_id": "C4108892",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the grid headers for the Meta- cabin",
+    "sources": [
+      "playwright-automation\\tests\\vdd_cabin.spec.ts:438"
+    ]
+  },
+  {
+    "old_id": "C4108893",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify user is able to input and reset the data in meta- cabin",
+    "sources": [
+      "playwright-automation\\tests\\vdd_cabin.spec.ts:438"
+    ]
+  },
+  {
+    "old_id": "C4108894",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify user is able to input and reset the data in meta- cabin",
+    "sources": [
+      "playwright-automation\\tests\\vdd_cabin.spec.ts:438"
+    ]
+  },
+  {
+    "old_id": "C4108895",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify user is able to open action modal in meta- cabin",
+    "sources": [
+      "playwright-automation\\tests\\vdd_cabin.spec.ts:438"
+    ]
+  },
+  {
+    "old_id": "C4108896",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify user is able to see the graphs in meta- cabin",
+    "sources": [
+      "playwright-automation\\tests\\vdd_cabin.spec.ts:438"
+    ]
+  },
+  {
+    "old_id": "C4108897",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify user is able to see the graphs in meta- cabin",
+    "sources": [
+      "playwright-automation\\tests\\vdd_cabin.spec.ts:438"
+    ]
+  },
+  {
+    "old_id": "C4108898",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify user is able to see the graphs in meta- cabin",
+    "sources": [
+      "playwright-automation\\tests\\vdd_cabin.spec.ts:438"
+    ]
+  },
+  {
+    "old_id": "C4108899",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify user is able to see the graphs in meta- cabin",
+    "sources": [
+      "playwright-automation\\tests\\vdd_cabin.spec.ts:438"
+    ]
+  },
+  {
+    "old_id": "C4110055",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the different components on promotions sub-tab- VI tab",
+    "sources": [
+      "playwright-automation\\tests\\vdd_promotions.spec.ts:542"
+    ]
+  },
+  {
+    "old_id": "C4110056",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the different components on promotions sub-tab- VI tab",
+    "sources": [
+      "playwright-automation\\tests\\vdd_promotions.spec.ts:542"
+    ]
+  },
+  {
+    "old_id": "C4110057",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the different components on promotions sub-tab- VI tab",
+    "sources": [
+      "playwright-automation\\tests\\vdd_promotions.spec.ts:542"
+    ]
+  },
+  {
+    "old_id": "C4110058",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the different components on promotions sub-tab- VI tab",
+    "sources": [
+      "playwright-automation\\tests\\vdd_promotions.spec.ts:5",
+      "playwright-automation\\tests\\vdd_promotions.spec.ts:542"
+    ]
+  },
+  {
+    "old_id": "C4110059",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the different components on promotions sub-tab- VI tab",
+    "sources": [
+      "playwright-automation\\tests\\vdd_promotions.spec.ts:5",
+      "playwright-automation\\tests\\vdd_promotions.spec.ts:542"
+    ]
+  },
+  {
+    "old_id": "C4110060",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the different components on promotions sub-tab- VI tab",
+    "sources": [
+      "playwright-automation\\tests\\vdd_promotions.spec.ts:5",
+      "playwright-automation\\tests\\vdd_promotions.spec.ts:542"
+    ]
+  },
+  {
+    "old_id": "C4110061",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the different components on promotions sub-tab- VI tab",
+    "sources": [
+      "playwright-automation\\tests\\vdd_promotions.spec.ts:5",
+      "playwright-automation\\tests\\vdd_promotions.spec.ts:542"
+    ]
+  },
+  {
+    "old_id": "C4110062",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the different components on promotions sub-tab- VI tab",
+    "sources": [
+      "playwright-automation\\tests\\vdd_promotions.spec.ts:5",
+      "playwright-automation\\tests\\vdd_promotions.spec.ts:542"
+    ]
+  },
+  {
+    "old_id": "C4110063",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the booking type filter on promotions sub-tab- VI tab",
+    "sources": [
+      "playwright-automation\\tests\\vdd_promotions.spec.ts:542"
+    ]
+  },
+  {
+    "old_id": "C4110064",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the time filter on promotions sub-tab- VI tab",
+    "sources": [
+      "playwright-automation\\tests\\vdd_promotions.spec.ts:5",
+      "playwright-automation\\tests\\vdd_promotions.spec.ts:542"
+    ]
+  },
+  {
+    "old_id": "C4110065",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the booking type and time filter on promotions sub-tab- VI tab",
+    "sources": [
+      "playwright-automation\\tests\\vdd_promotions.spec.ts:542"
+    ]
+  },
+  {
+    "old_id": "C4110066",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the different components on promotions sub-tab- meta tab",
+    "sources": [
+      "playwright-automation\\tests\\vdd_promotions.spec.ts:1039"
+    ]
+  },
+  {
+    "old_id": "C4110067",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the different components on promotions sub-tab- meta tab",
+    "sources": [
+      "playwright-automation\\tests\\vdd_promotions.spec.ts:1039"
+    ]
+  },
+  {
+    "old_id": "C4110068",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the different components on promotions sub-tab- meta tab",
+    "sources": [
+      "playwright-automation\\tests\\vdd_promotions.spec.ts:1039"
+    ]
+  },
+  {
+    "old_id": "C4110069",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the different components on promotions sub-tab- VI tab",
+    "sources": [
+      "playwright-automation\\tests\\vdd_promotions.spec.ts:239",
+      "playwright-automation\\tests\\vdd_promotions.spec.ts:1039"
+    ]
+  },
+  {
+    "old_id": "C4110070",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the different components on promotions sub-tab- VI tab",
+    "sources": [
+      "playwright-automation\\tests\\vdd_promotions.spec.ts:239",
+      "playwright-automation\\tests\\vdd_promotions.spec.ts:1039"
+    ]
+  },
+  {
+    "old_id": "C4110071",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the different components on promotions sub-tab- VI tab",
+    "sources": [
+      "playwright-automation\\tests\\vdd_promotions.spec.ts:239",
+      "playwright-automation\\tests\\vdd_promotions.spec.ts:1039"
+    ]
+  },
+  {
+    "old_id": "C4110072",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the different components on promotions sub-tab- VI tab",
+    "sources": [
+      "playwright-automation\\tests\\vdd_promotions.spec.ts:239",
+      "playwright-automation\\tests\\vdd_promotions.spec.ts:1039"
+    ]
+  },
+  {
+    "old_id": "C4110073",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the different components on promotions sub-tab- VI tab",
+    "sources": [
+      "playwright-automation\\tests\\vdd_promotions.spec.ts:239",
+      "playwright-automation\\tests\\vdd_promotions.spec.ts:1039"
+    ]
+  },
+  {
+    "old_id": "C4110074",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the booking type filter on promotions sub-tab- Meta tab",
+    "sources": [
+      "playwright-automation\\tests\\vdd_promotions.spec.ts:1039"
+    ]
+  },
+  {
+    "old_id": "C4110075",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the time filter on promotions sub-tab- VI tab",
+    "sources": [
+      "playwright-automation\\tests\\vdd_promotions.spec.ts:239",
+      "playwright-automation\\tests\\vdd_promotions.spec.ts:1039"
+    ]
+  },
+  {
+    "old_id": "C4110076",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the booking type and time filter on promotions sub-tab- Meta tab",
+    "sources": [
+      "playwright-automation\\tests\\vdd_promotions.spec.ts:1039"
+    ]
+  },
+  {
+    "old_id": "C4119003",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify that the filters are applied user navigates to pricing page from dashboard",
+    "sources": [
+      "playwright-automation\\tests\\filters.spec.ts:5",
+      "playwright-automation\\tests\\filters.spec.ts:305"
+    ]
+  },
+  {
+    "old_id": "C4127986",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager"
+    ],
+    "summary": "Verify the different components on promotions sub-tab- VI tab",
+    "sources": [
+      "playwright-automation\\tests\\vdd_promotions.spec.ts:5"
+    ]
+  },
+  {
+    "old_id": "C4127989",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager"
+    ],
+    "summary": "Verify the different components on promotions sub-tab- VI tab",
+    "sources": [
+      "playwright-automation\\tests\\vdd_promotions.spec.ts:239"
+    ]
+  },
+  {
+    "old_id": "C4127992",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to open view key metrics popup on VI tab",
+    "sources": [
+      "playwright-automation\\tests\\view_key_metrics.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4127993",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to open view key metrics popup on Meta tab",
+    "sources": [
+      "playwright-automation\\tests\\view_key_metrics.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4127994",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to open view key metrics popup on VI tab",
+    "sources": [
+      "playwright-automation\\tests\\view_key_metrics.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4127995",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to open view key metrics popup on VI tab",
+    "sources": [
+      "playwright-automation\\tests\\view_key_metrics.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4127996",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to open view key metrics popup on VI tab",
+    "sources": [
+      "playwright-automation\\tests\\view_key_metrics.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4130533",
+    "labels": [
+      "NCL_admin",
+      "OCEANIA_admin",
+      "REGENT_admin"
+    ],
+    "summary": "verify admin is able to navigate to user tab in Admin page and search a user",
+    "sources": [
+      "playwright-automation\\tests\\admin.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4130534",
+    "labels": [
+      "NCL_admin",
+      "OCEANIA_admin",
+      "REGENT_admin"
+    ],
+    "summary": "verify admin is able to navigate to user tab in Admin page and search a user",
+    "sources": [
+      "playwright-automation\\tests\\admin.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4130535",
+    "labels": [
+      "NCL_admin",
+      "OCEANIA_admin",
+      "REGENT_admin"
+    ],
+    "summary": "verify admin is able to navigate to user tab in Admin page and search a user",
+    "sources": [
+      "playwright-automation\\tests\\admin.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4130543",
+    "labels": [
+      "NCL_admin",
+      "OCEANIA_admin",
+      "REGENT_admin"
+    ],
+    "summary": "verify admin is able to navigate to portfolio tab in Admin page and search a user",
+    "sources": [
+      "playwright-automation\\tests\\admin.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4130544",
+    "labels": [
+      "NCL_admin",
+      "OCEANIA_admin",
+      "REGENT_admin"
+    ],
+    "summary": "verify admin is able to navigate to portfolio tab in Admin page and search a user",
+    "sources": [
+      "playwright-automation\\tests\\admin.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4130545",
+    "labels": [
+      "NCL_admin",
+      "OCEANIA_admin",
+      "REGENT_admin"
+    ],
+    "summary": "verify admin is able to navigate to portfolio tab in Admin page and search a user",
+    "sources": [
+      "playwright-automation\\tests\\admin.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4130584",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view different components on Performance page",
+    "sources": [
+      "playwright-automation\\tests\\performance.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4130585",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view different components on Performance page",
+    "sources": [
+      "playwright-automation\\tests\\performance.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4130586",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view different components on Performance page",
+    "sources": [
+      "playwright-automation\\tests\\performance.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4130587",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view different components on Performance page",
+    "sources": [
+      "playwright-automation\\tests\\performance.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4130588",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view different components on Performance page",
+    "sources": [
+      "playwright-automation\\tests\\performance.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4130589",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view different components on Performance page",
+    "sources": [
+      "playwright-automation\\tests\\performance.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4130590",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to apply filters in Performance page",
+    "sources": [
+      "playwright-automation\\tests\\performance.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "4176231",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing page blank params",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_pricing.py:181"
+    ]
+  },
+  {
+    "old_id": "4176232",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing page invalid page",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_pricing.py:190"
+    ]
+  },
+  {
+    "old_id": "4176233",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing page outOfBound page",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_pricing.py:199"
+    ]
+  },
+  {
+    "old_id": "4176234",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing page invalid pageSize",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_pricing.py:208"
+    ]
+  },
+  {
+    "old_id": "4176235",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing page outOfBound pageSize",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_pricing.py:215"
+    ]
+  },
+  {
+    "old_id": "4176236",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing page invalid startRow",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_pricing.py:222"
+    ]
+  },
+  {
+    "old_id": "4176237",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing page invalid endRow",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_pricing.py:229"
+    ]
+  },
+  {
+    "old_id": "4176238",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing page outOfBound startRow",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_pricing.py:236"
+    ]
+  },
+  {
+    "old_id": "4176239",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing page outOfBound endRow",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_pricing.py:243"
+    ]
+  },
+  {
+    "old_id": "4176240",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter invalid column name",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_pricing.py:250"
+    ]
+  },
+  {
+    "old_id": "4176241",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter invalid type",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_pricing.py:257"
+    ]
+  },
+  {
+    "old_id": "4176242",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter invalid filter",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_pricing.py:264"
+    ]
+  },
+  {
+    "old_id": "4176243",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter invalid filterType",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_pricing.py:271"
+    ]
+  },
+  {
+    "old_id": "4176244",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter blank values",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_pricing.py:278"
+    ]
+  },
+  {
+    "old_id": "C4203174",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the source market tab elements for VI tab",
+    "sources": [
+      "playwright-automation\\tests\\vdd_sourceMarket.spec.ts:5"
+    ]
+  },
+  {
+    "old_id": "C4203175",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the source market tab elements for VI tab",
+    "sources": [
+      "playwright-automation\\tests\\vdd_sourceMarket.spec.ts:5"
+    ]
+  },
+  {
+    "old_id": "C4203176",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the source market tab elements for VI tab",
+    "sources": [
+      "playwright-automation\\tests\\vdd_sourceMarket.spec.ts:5"
+    ]
+  },
+  {
+    "old_id": "C4203177",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the source market tab elements for VI tab",
+    "sources": [
+      "playwright-automation\\tests\\vdd_sourceMarket.spec.ts:5"
+    ]
+  },
+  {
+    "old_id": "C4203178",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify user can edit and reset RM analyst logs",
+    "sources": [
+      "playwright-automation\\tests\\vdd_sourceMarket.spec.ts:5"
+    ]
+  },
+  {
+    "old_id": "C4203179",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify user can edit and reset RM analyst logs",
+    "sources": [
+      "playwright-automation\\tests\\vdd_sourceMarket.spec.ts:5"
+    ]
+  },
+  {
+    "old_id": "C4203180",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify user can edit and reset RM analyst logs",
+    "sources": [
+      "playwright-automation\\tests\\vdd_sourceMarket.spec.ts:5"
+    ]
+  },
+  {
+    "old_id": "C4203181",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the source market tab elements for VI tab",
+    "sources": [
+      "playwright-automation\\tests\\vdd_sourceMarket.spec.ts:5"
+    ]
+  },
+  {
+    "old_id": "C4203182",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the source market tab with time filters for VI tab",
+    "sources": [
+      "playwright-automation\\tests\\vdd_sourceMarket.spec.ts:5"
+    ]
+  },
+  {
+    "old_id": "C4203183",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the source market tab elements for meta tab",
+    "sources": [
+      "playwright-automation\\tests\\vdd_sourceMarket.spec.ts:5"
+    ]
+  },
+  {
+    "old_id": "C4203184",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the source market tab elements for meta tab",
+    "sources": [
+      "playwright-automation\\tests\\vdd_sourceMarket.spec.ts:5"
+    ]
+  },
+  {
+    "old_id": "C4203185",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the source market tab elements for meta tab",
+    "sources": [
+      "playwright-automation\\tests\\vdd_sourceMarket.spec.ts:5"
+    ]
+  },
+  {
+    "old_id": "C4203186",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the source market tab elements for meta tab",
+    "sources": [
+      "playwright-automation\\tests\\vdd_sourceMarket.spec.ts:5"
+    ]
+  },
+  {
+    "old_id": "C4203187",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the source market tab with time filters for meta tab",
+    "sources": [
+      "playwright-automation\\tests\\vdd_sourceMarket.spec.ts:5"
+    ]
+  },
+  {
+    "old_id": "C4203188",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the source market tab with time filters for meta tab",
+    "sources": [
+      "playwright-automation\\tests\\vdd_sourceMarket.spec.ts:5"
+    ]
+  },
+  {
+    "old_id": "C4203198",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the group tab with filters for VI tab",
+    "sources": [
+      "playwright-automation\\tests\\vdd_group.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4203199",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the group tab with filters for VI tab",
+    "sources": [
+      "playwright-automation\\tests\\vdd_group.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4203200",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the group tab with filters for VI tab",
+    "sources": [
+      "playwright-automation\\tests\\vdd_group.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4203201",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to navigate to usage page and verifies elements",
+    "sources": [
+      "playwright-automation\\tests\\usage.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4203202",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to navigate to usage page and verifies elements",
+    "sources": [
+      "playwright-automation\\tests\\usage.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4203203",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to navigate to usage page and verifies elements",
+    "sources": [
+      "playwright-automation\\tests\\usage.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4203204",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to navigate to usage page and select an analyst from dropdown",
+    "sources": [
+      "playwright-automation\\tests\\usage.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4203205",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to navigate to usage page and select a time period from dropdown",
+    "sources": [
+      "playwright-automation\\tests\\usage.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4203206",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to navigate to usage page and verifies elements",
+    "sources": [
+      "playwright-automation\\tests\\usage.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "4203906",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage info correct value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_cabin.py:20"
+    ]
+  },
+  {
+    "old_id": "4203907",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage info blank value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_cabin.py:28"
+    ]
+  },
+  {
+    "old_id": "4203908",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage info incorrect value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_cabin.py:35"
+    ]
+  },
+  {
+    "old_id": "4203909",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage navigation correct value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_cabin.py:42"
+    ]
+  },
+  {
+    "old_id": "4203910",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage navigation blank value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_cabin.py:51"
+    ]
+  },
+  {
+    "old_id": "4203911",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage navigation incorrect value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_cabin.py:59"
+    ]
+  },
+  {
+    "old_id": "4203912",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage key metrics correct value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_cabin.py:67"
+    ]
+  },
+  {
+    "old_id": "4203913",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage key metrics blank value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_cabin.py:75"
+    ]
+  },
+  {
+    "old_id": "4203914",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage key metrics incorrect value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_cabin.py:82"
+    ]
+  },
+  {
+    "old_id": "4203915",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage inv correct value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_cabin.py:89"
+    ]
+  },
+  {
+    "old_id": "4203916",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage inv blank value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_cabin.py:97"
+    ]
+  },
+  {
+    "old_id": "4203917",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage inv incorrect value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_cabin.py:104"
+    ]
+  },
+  {
+    "old_id": "4203918",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage inv meta correct value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_cabin.py:110"
+    ]
+  },
+  {
+    "old_id": "4203919",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage inv meta blank value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_cabin.py:119"
+    ]
+  },
+  {
+    "old_id": "4203920",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage inv meta incorrect value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_cabin.py:127"
+    ]
+  },
+  {
+    "old_id": "4203921",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage cabin chart correct value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_cabin.py:135"
+    ]
+  },
+  {
+    "old_id": "4203922",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage cabin chart blank value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_cabin.py:143"
+    ]
+  },
+  {
+    "old_id": "4203923",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage cabin chart incorrect value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_cabin.py:150"
+    ]
+  },
+  {
+    "old_id": "4203924",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market correct value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_promotion.py:20"
+    ]
+  },
+  {
+    "old_id": "4203925",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market blank value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_promotion.py:27"
+    ]
+  },
+  {
+    "old_id": "4203926",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market incorrect value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_promotion.py:33"
+    ]
+  },
+  {
+    "old_id": "4203927",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market with time correct value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_promotion.py:39"
+    ]
+  },
+  {
+    "old_id": "4203928",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market with time blank value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_promotion.py:46"
+    ]
+  },
+  {
+    "old_id": "4203929",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market with time incorrect value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_promotion.py:52"
+    ]
+  },
+  {
+    "old_id": "4203930",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market with bookingType correct value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_promotion.py:58"
+    ]
+  },
+  {
+    "old_id": "4203931",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market with bookingType blank value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_promotion.py:65"
+    ]
+  },
+  {
+    "old_id": "4203932",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market with bookingType incorrect value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_promotion.py:71"
+    ]
+  },
+  {
+    "old_id": "4203933",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market with bookingType time correct value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_promotion.py:77"
+    ]
+  },
+  {
+    "old_id": "4203934",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market with bookingType time blank value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_promotion.py:84"
+    ]
+  },
+  {
+    "old_id": "4203935",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market with bookingType time incorrect value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_promotion.py:90"
+    ]
+  },
+  {
+    "old_id": "4203936",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market meta correct value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_promotion.py:96"
+    ]
+  },
+  {
+    "old_id": "4203937",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market meta blank value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_promotion.py:103"
+    ]
+  },
+  {
+    "old_id": "4203938",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market meta incorrect value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_promotion.py:109"
+    ]
+  },
+  {
+    "old_id": "4203939",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market meta with time correct value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_promotion.py:115"
+    ]
+  },
+  {
+    "old_id": "4203940",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market meta with time blank value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_promotion.py:122"
+    ]
+  },
+  {
+    "old_id": "4203941",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market meta with time incorrect value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_promotion.py:128"
+    ]
+  },
+  {
+    "old_id": "4203942",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market meta with bookingType correct value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_promotion.py:134"
+    ]
+  },
+  {
+    "old_id": "4203943",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market meta with bookingType blank value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_promotion.py:141"
+    ]
+  },
+  {
+    "old_id": "4203944",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market meta with bookingType incorrect value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_promotion.py:147"
+    ]
+  },
+  {
+    "old_id": "4203945",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market meta with bookingType time correct value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_promotion.py:153"
+    ]
+  },
+  {
+    "old_id": "4203946",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market meta with bookingType time blank value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_promotion.py:160"
+    ]
+  },
+  {
+    "old_id": "4203947",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market meta with bookingType time incorrect value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_promotion.py:166"
+    ]
+  },
+  {
+    "old_id": "4203948",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage source market correct value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_source_market.py:20"
+    ]
+  },
+  {
+    "old_id": "4203949",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage source market blank value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_source_market.py:26"
+    ]
+  },
+  {
+    "old_id": "4203950",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage source market incorrect value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_source_market.py:32"
+    ]
+  },
+  {
+    "old_id": "4203951",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage source market bookings correct value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_source_market.py:38"
+    ]
+  },
+  {
+    "old_id": "4203952",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage source market bookings blank value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_source_market.py:45"
+    ]
+  },
+  {
+    "old_id": "4203953",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage source market bookings incorrect value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_source_market.py:51"
+    ]
+  },
+  {
+    "old_id": "4203954",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage source market room type correct value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_source_market.py:57"
+    ]
+  },
+  {
+    "old_id": "4203955",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage source market room type blank value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_source_market.py:64"
+    ]
+  },
+  {
+    "old_id": "4203956",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage source market room type incorrect value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_source_market.py:70"
+    ]
+  },
+  {
+    "old_id": "4203958",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage source market bookings correct value with time filter",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_source_market.py:76"
+    ]
+  },
+  {
+    "old_id": "4203959",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage source market room type correct value with time filter",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_source_market.py:83"
+    ]
+  },
+  {
+    "old_id": "4203960",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage source market meta correct value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_source_market.py:90"
+    ]
+  },
+  {
+    "old_id": "4203961",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage source market meta blank value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_source_market.py:97"
+    ]
+  },
+  {
+    "old_id": "4203962",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage source market meta incorrect value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_source_market.py:103"
+    ]
+  },
+  {
+    "old_id": "4203963",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage source market meta bookings correct value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_source_market.py:109"
+    ]
+  },
+  {
+    "old_id": "4203964",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage source market meta bookings blank value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_source_market.py:116"
+    ]
+  },
+  {
+    "old_id": "4203965",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage source market meta bookings incorrect value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_source_market.py:123"
+    ]
+  },
+  {
+    "old_id": "4203966",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage source market meta room type correct value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_source_market.py:130"
+    ]
+  },
+  {
+    "old_id": "4203967",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage source market meta room type blank value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_source_market.py:138"
+    ]
+  },
+  {
+    "old_id": "4203968",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage source market meta room type incorrect value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_source_market.py:145"
+    ]
+  },
+  {
+    "old_id": "4203970",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage source market meta bookings correct value with time filter",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_source_market.py:152"
+    ]
+  },
+  {
+    "old_id": "4203971",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage source market meta room type correct value with time filter",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_source_market.py:160"
+    ]
+  },
+  {
+    "old_id": "4203972",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage channel correct value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_channel.py:20"
+    ]
+  },
+  {
+    "old_id": "4203973",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage channel blank value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_channel.py:27"
+    ]
+  },
+  {
+    "old_id": "4203974",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage channel incorrect value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_channel.py:33"
+    ]
+  },
+  {
+    "old_id": "4203975",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage channel with time correct value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_channel.py:39"
+    ]
+  },
+  {
+    "old_id": "4203976",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage channel with time blank value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_channel.py:46"
+    ]
+  },
+  {
+    "old_id": "4203977",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage channel with time incorrect value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_channel.py:52"
+    ]
+  },
+  {
+    "old_id": "4203984",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage group correct value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_group.py:20"
+    ]
+  },
+  {
+    "old_id": "4203985",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage group blank value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_group.py:27"
+    ]
+  },
+  {
+    "old_id": "4203986",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage group incorrect value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_group.py:33"
+    ]
+  },
+  {
+    "old_id": "4203987",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage group meta correct value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_group.py:39"
+    ]
+  },
+  {
+    "old_id": "4203988",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage group meta blank value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_group.py:46"
+    ]
+  },
+  {
+    "old_id": "4203989",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage group meta incorrect value",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_vdd_group.py:52"
+    ]
+  },
+  {
+    "old_id": "4204075",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "rev metrics without filter",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_performance.py:17"
+    ]
+  },
+  {
+    "old_id": "4204076",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "rev metrics with filter",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_performance.py:23"
+    ]
+  },
+  {
+    "old_id": "4204077",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "rev trends without filter",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_performance.py:29"
+    ]
+  },
+  {
+    "old_id": "4204078",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "rev trends with filter",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_performance.py:35"
+    ]
+  },
+  {
+    "old_id": "4204079",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "rev opp without filter",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_performance.py:41"
+    ]
+  },
+  {
+    "old_id": "4204080",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "rev opp with filter",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_performance.py:47"
+    ]
+  },
+  {
+    "old_id": "4204081",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "promo analysis without filter",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_performance.py:53"
+    ]
+  },
+  {
+    "old_id": "4204082",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "promo analysis with filter",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_performance.py:59"
+    ]
+  },
+  {
+    "old_id": "4204083",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "all perf endpoints with shipclasses valid option",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_performance.py:65"
+    ]
+  },
+  {
+    "old_id": "4204084",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "all perf endpoints with shipclasses blank",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_performance.py:73"
+    ]
+  },
+  {
+    "old_id": "4204085",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "all perf endpoints with shipclasses invalid option",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_performance.py:81"
+    ]
+  },
+  {
+    "old_id": "4204086",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "all perf endpoints with ship valid option",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_performance.py:90"
+    ]
+  },
+  {
+    "old_id": "4204087",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "all perf endpoints with ship blank",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_performance.py:98"
+    ]
+  },
+  {
+    "old_id": "4204088",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "all perf endpoints with ship invalid option",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_performance.py:106"
+    ]
+  },
+  {
+    "old_id": "4204089",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "all perf endpoints with bookingHorizons valid option",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_performance.py:115"
+    ]
+  },
+  {
+    "old_id": "4204090",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "all perf endpoints with bookingHorizons blank",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_performance.py:123"
+    ]
+  },
+  {
+    "old_id": "4204091",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "all perf endpoints with bookingHorizons invalid option",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_performance.py:131"
+    ]
+  },
+  {
+    "old_id": "4204092",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "all perf endpoints with regions valid option",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_performance.py:140"
+    ]
+  },
+  {
+    "old_id": "4204093",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "all perf endpoints with regions blank",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_performance.py:148"
+    ]
+  },
+  {
+    "old_id": "4204094",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "all perf endpoints with regions invalid option",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_performance.py:156"
+    ]
+  },
+  {
+    "old_id": "4204095",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "all perf endpoints with market valid option",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_performance.py:165"
+    ]
+  },
+  {
+    "old_id": "4204096",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "all perf endpoints with market blank",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_performance.py:173"
+    ]
+  },
+  {
+    "old_id": "4204097",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "all perf endpoints with market invalid option",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_performance.py:181"
+    ]
+  },
+  {
+    "old_id": "4204098",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "all perf endpoints with voyageLengths valid option",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_performance.py:190"
+    ]
+  },
+  {
+    "old_id": "4204099",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "all perf endpoints with voyageLengths blank",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_performance.py:198"
+    ]
+  },
+  {
+    "old_id": "4204100",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "all perf endpoints with voyageLengths invalid option",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_performance.py:206"
+    ]
+  },
+  {
+    "old_id": "4204101",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "all perf endpoints with metaCategory valid option",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_performance.py:215"
+    ]
+  },
+  {
+    "old_id": "4204102",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "all perf endpoints with metaCategory blank",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_performance.py:223"
+    ]
+  },
+  {
+    "old_id": "4204103",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "all perf endpoints with metaCategory invalid option",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_performance.py:231"
+    ]
+  },
+  {
+    "old_id": "C4378663",
+    "labels": [
+      "NCL_manager",
+      "OCEANIA_manager",
+      "REGENT_manager"
+    ],
+    "summary": "verify manager is able to navigate to user tab in Admin page and search a user",
+    "sources": [
+      "playwright-automation\\tests\\admin.spec.ts:74"
+    ]
+  },
+  {
+    "old_id": "C4378664",
+    "labels": [
+      "NCL_manager",
+      "OCEANIA_manager",
+      "REGENT_manager"
+    ],
+    "summary": "verify manager is able to navigate to user tab in Admin page and search a user",
+    "sources": [
+      "playwright-automation\\tests\\admin.spec.ts:74"
+    ]
+  },
+  {
+    "old_id": "C4378665",
+    "labels": [
+      "NCL_manager",
+      "OCEANIA_manager",
+      "REGENT_manager"
+    ],
+    "summary": "verify manager is able to navigate to user tab in Admin page and search a user",
+    "sources": [
+      "playwright-automation\\tests\\admin.spec.ts:74"
+    ]
+  },
+  {
+    "old_id": "C4378666",
+    "labels": [
+      "NCL_manager",
+      "OCEANIA_manager",
+      "REGENT_manager"
+    ],
+    "summary": "verify manager is able to navigate to portfolio tab in Admin page and search a user",
+    "sources": [
+      "playwright-automation\\tests\\admin.spec.ts:74"
+    ]
+  },
+  {
+    "old_id": "C4378667",
+    "labels": [
+      "NCL_manager",
+      "OCEANIA_manager",
+      "REGENT_manager"
+    ],
+    "summary": "verify manager is able to navigate to portfolio tab in Admin page and search a user",
+    "sources": [
+      "playwright-automation\\tests\\admin.spec.ts:74"
+    ]
+  },
+  {
+    "old_id": "C4378668",
+    "labels": [
+      "NCL_manager",
+      "OCEANIA_manager",
+      "REGENT_manager"
+    ],
+    "summary": "verify manager is able to navigate to portfolio tab in Admin page and search a user",
+    "sources": [
+      "playwright-automation\\tests\\admin.spec.ts:74"
+    ]
+  },
+  {
+    "old_id": "C4379286",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the optimization tile can navigate the user to pricing page with filters",
+    "sources": [
+      "playwright-automation\\tests\\dashboard.spec.ts:142"
+    ]
+  },
+  {
+    "old_id": "C4379287",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the optimization tile can navigate the user to pricing page with filters",
+    "sources": [
+      "playwright-automation\\tests\\dashboard.spec.ts:142"
+    ]
+  },
+  {
+    "old_id": "C4381554",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify review rate chart heading legend and navigate to pricing page",
+    "sources": [
+      "playwright-automation\\tests\\dashboard.spec.ts:425"
+    ]
+  },
+  {
+    "old_id": "C4381555",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify review rate chart heading legend and navigate to pricing page",
+    "sources": [
+      "playwright-automation\\tests\\dashboard.spec.ts:425"
+    ]
+  },
+  {
+    "old_id": "C4381556",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify review rate chart heading legend and navigate to pricing page",
+    "sources": [
+      "playwright-automation\\tests\\dashboard.spec.ts:425"
+    ]
+  },
+  {
+    "old_id": "C4381609",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to navigate to usage page and verifies usage actions monitoring sections",
+    "sources": [
+      "playwright-automation\\tests\\usage.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4381610",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to navigate to usage page and verifies usage actions monitoring sections",
+    "sources": [
+      "playwright-automation\\tests\\usage.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4381611",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to navigate to usage page and verifies usage actions monitoring sections",
+    "sources": [
+      "playwright-automation\\tests\\usage.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4381612",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to navigate to usage page and verifies usage actions monitoring sections",
+    "sources": [
+      "playwright-automation\\tests\\usage.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4387575",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the group tab with filters for Meta tab",
+    "sources": [
+      "playwright-automation\\tests\\vdd_group.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4387576",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the group tab with filters for Meta tab",
+    "sources": [
+      "playwright-automation\\tests\\vdd_group.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4387577",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the group tab with filters for Meta tab",
+    "sources": [
+      "playwright-automation\\tests\\vdd_group.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4388477",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view different components on config page",
+    "sources": [
+      "playwright-automation\\tests\\config_pane.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4388478",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view different components on exchange rates",
+    "sources": [
+      "playwright-automation\\tests\\config_pane.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4388479",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view different components on commission",
+    "sources": [
+      "playwright-automation\\tests\\config_pane.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4388480",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view different components on tactical fare discount",
+    "sources": [
+      "playwright-automation\\tests\\config_pane.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4388481",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view different components on rounding rules",
+    "sources": [
+      "playwright-automation\\tests\\config_pane.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4388482",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view different components on backend discounts",
+    "sources": [
+      "playwright-automation\\tests\\config_pane.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4388483",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view different components on currency freeze",
+    "sources": [
+      "playwright-automation\\tests\\config_pane.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4388484",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view different components on currency exchange overrides",
+    "sources": [
+      "playwright-automation\\tests\\config_pane.spec.ts:726"
+    ]
+  },
+  {
+    "old_id": "C4388485",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view different components on cabin category ladder",
+    "sources": [
+      "playwright-automation\\tests\\config_pane.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4388486",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view different components on t3/4 pricing",
+    "sources": [
+      "playwright-automation\\tests\\config_pane.spec.ts:4"
+    ]
+  },
+  {
+    "old_id": "C4388487",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view different components on Sailings",
+    "sources": [
+      "playwright-automation\\tests\\config_pane.spec.ts:726"
+    ]
+  },
+  {
+    "old_id": "C4388488",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view different components on lettered voyages",
+    "sources": [
+      "playwright-automation\\tests\\config_pane.spec.ts:726"
+    ]
+  },
+  {
+    "old_id": "C4388489",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the pricing page- lettered voyage",
+    "sources": [
+      "playwright-automation\\tests\\pricing.spec.ts:973"
+    ]
+  },
+  {
+    "old_id": "C4388490",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the pricing page- lettered voyage",
+    "sources": [
+      "playwright-automation\\tests\\pricing.spec.ts:973"
+    ]
+  },
+  {
+    "old_id": "C4388492",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the pricing page- lettered voyage",
+    "sources": [
+      "playwright-automation\\tests\\pricing.spec.ts:973"
+    ]
+  },
+  {
+    "old_id": "C4388500",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the pricing page- bulk action",
+    "sources": [
+      "playwright-automation\\tests\\pricing.spec.ts:584"
+    ]
+  },
+  {
+    "old_id": "C4388501",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the pricing page- bulk action",
+    "sources": [
+      "playwright-automation\\tests\\pricing.spec.ts:584"
+    ]
+  },
+  {
+    "old_id": "C4388503",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the pricing page- bulk action",
+    "sources": [
+      "playwright-automation\\tests\\pricing.spec.ts:584"
+    ]
+  },
+  {
+    "old_id": "4391011",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config currencies",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_config.py:17",
+      "pytest-automation\\e2e_tests\\test_config.py:148"
+    ]
+  },
+  {
+    "old_id": "4391012",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config meta categories",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_config.py:22",
+      "pytest-automation\\e2e_tests\\test_config.py:153"
+    ]
+  },
+  {
+    "old_id": "4391013",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config brands",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_config.py:27",
+      "pytest-automation\\e2e_tests\\test_config.py:158"
+    ]
+  },
+  {
+    "old_id": "4391014",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config all ships",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_config.py:32",
+      "pytest-automation\\e2e_tests\\test_config.py:163"
+    ]
+  },
+  {
+    "old_id": "4391015",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config current exchange",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_config.py:37",
+      "pytest-automation\\e2e_tests\\test_config.py:168"
+    ]
+  },
+  {
+    "old_id": "4391016",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config current exchange override",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_config.py:42"
+    ]
+  },
+  {
+    "old_id": "4391017",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config psuedo discount",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_config.py:52",
+      "pytest-automation\\e2e_tests\\test_config.py:178"
+    ]
+  },
+  {
+    "old_id": "4391018",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config rounding rule",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_config.py:57",
+      "pytest-automation\\e2e_tests\\test_config.py:183"
+    ]
+  },
+  {
+    "old_id": "4391019",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config currency conversion",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_config.py:62",
+      "pytest-automation\\e2e_tests\\test_config.py:188"
+    ]
+  },
+  {
+    "old_id": "4391020",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config currency sailing freeze",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_config.py:67",
+      "pytest-automation\\e2e_tests\\test_config.py:193"
+    ]
+  },
+  {
+    "old_id": "4391021",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config cabin category ladder",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_config.py:72",
+      "pytest-automation\\e2e_tests\\test_config.py:198"
+    ]
+  },
+  {
+    "old_id": "4391022",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config t3 4 pricing",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_config.py:77",
+      "pytest-automation\\e2e_tests\\test_config.py:203"
+    ]
+  },
+  {
+    "old_id": "4391023",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config schedule price sailing",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_config.py:82"
+    ]
+  },
+  {
+    "old_id": "4391024",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config schedule price lettered voyage",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_config.py:112"
+    ]
+  },
+  {
+    "old_id": "4391025",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config commission",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_config.py:47",
+      "pytest-automation\\e2e_tests\\test_config.py:173"
+    ]
+  },
+  {
+    "old_id": "4391026",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config schedule price sailing blank page",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_config.py:88"
+    ]
+  },
+  {
+    "old_id": "4391027",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config schedule price sailing invalid page",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_config.py:94"
+    ]
+  },
+  {
+    "old_id": "4391028",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config schedule price sailing blank page size",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_config.py:100"
+    ]
+  },
+  {
+    "old_id": "4391029",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config schedule price sailing invalid page size",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_config.py:106"
+    ]
+  },
+  {
+    "old_id": "4391030",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config schedule price lettered voyage blank page",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_config.py:118"
+    ]
+  },
+  {
+    "old_id": "4391031",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config schedule price lettered voyage invalid page",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_config.py:124"
+    ]
+  },
+  {
+    "old_id": "4391032",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config schedule price lettered voyage blank page size",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_config.py:130"
+    ]
+  },
+  {
+    "old_id": "4391033",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config schedule price lettered voyage invalid page size",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_config.py:136"
+    ]
+  },
+  {
+    "old_id": "4391161",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "lettered voyage",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_lettered_voyage.py:17"
+    ]
+  },
+  {
+    "old_id": "4391162",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "lettered voyage blank page",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_lettered_voyage.py:23"
+    ]
+  },
+  {
+    "old_id": "4391163",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "lettered voyage invalid page",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_lettered_voyage.py:29"
+    ]
+  },
+  {
+    "old_id": "4391164",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "lettered voyage blank page size",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_lettered_voyage.py:35"
+    ]
+  },
+  {
+    "old_id": "4391165",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "lettered voyage invalid page size",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_lettered_voyage.py:41"
+    ]
+  },
+  {
+    "old_id": "4391166",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "lettered voyage blank startRow",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_lettered_voyage.py:47"
+    ]
+  },
+  {
+    "old_id": "4391167",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "lettered voyage invalid startRow",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_lettered_voyage.py:53"
+    ]
+  },
+  {
+    "old_id": "4391168",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "lettered voyage blank endRow",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_lettered_voyage.py:59"
+    ]
+  },
+  {
+    "old_id": "4391169",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "lettered voyage invalid endRow",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_lettered_voyage.py:65"
+    ]
+  },
+  {
+    "old_id": "4391174",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_usage.py:17"
+    ]
+  },
+  {
+    "old_id": "4391175",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage summary",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_usage.py:23"
+    ]
+  },
+  {
+    "old_id": "4391176",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage summary blank startDate",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_usage.py:29"
+    ]
+  },
+  {
+    "old_id": "4391177",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage summary invalid startDate",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_usage.py:34"
+    ]
+  },
+  {
+    "old_id": "4391178",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage summary blank endDate",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_usage.py:39"
+    ]
+  },
+  {
+    "old_id": "4391179",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage summary invalid endDate",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_usage.py:44"
+    ]
+  },
+  {
+    "old_id": "4391180",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage override logs pricing",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_usage.py:49"
+    ]
+  },
+  {
+    "old_id": "4391181",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage override logs inventory",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_usage.py:55"
+    ]
+  },
+  {
+    "old_id": "4391182",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage override logs blank category",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_usage.py:61"
+    ]
+  },
+  {
+    "old_id": "4391183",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage override logs invalid category",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_usage.py:67"
+    ]
+  },
+  {
+    "old_id": "4391184",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage override logs pricing blank page",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_usage.py:73"
+    ]
+  },
+  {
+    "old_id": "4391185",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage override logs inventory blank page",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_usage.py:79"
+    ]
+  },
+  {
+    "old_id": "4391186",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage override logs pricing invalid page",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_usage.py:85"
+    ]
+  },
+  {
+    "old_id": "4391187",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage override logs inventory invalid page",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_usage.py:91"
+    ]
+  },
+  {
+    "old_id": "4391188",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage override logs pricing blank page size",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_usage.py:97"
+    ]
+  },
+  {
+    "old_id": "4391189",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage override logs inventory blank page size",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_usage.py:103"
+    ]
+  },
+  {
+    "old_id": "4391190",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage override logs pricing invalid page size",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_usage.py:109"
+    ]
+  },
+  {
+    "old_id": "4391191",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage override logs inventory invalid page size",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_usage.py:115"
+    ]
+  },
+  {
+    "old_id": "4391192",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage override logs pricing blank startDate",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_usage.py:121"
+    ]
+  },
+  {
+    "old_id": "4391193",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage override logs inventory blank startDate",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_usage.py:127"
+    ]
+  },
+  {
+    "old_id": "4391194",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage override logs pricing invalid startDate",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_usage.py:133"
+    ]
+  },
+  {
+    "old_id": "4391195",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage override logs inventory invalid startDate",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_usage.py:139"
+    ]
+  },
+  {
+    "old_id": "4391196",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage override logs pricing blank endDate",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_usage.py:145"
+    ]
+  },
+  {
+    "old_id": "4391197",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage override logs inventory blank endDate",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_usage.py:151"
+    ]
+  },
+  {
+    "old_id": "4391198",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage override logs pricing invalid endDate",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_usage.py:157"
+    ]
+  },
+  {
+    "old_id": "4391199",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage override logs inventory invalid endDate",
+    "sources": [
+      "pytest-automation\\e2e_tests\\test_usage.py:163"
+    ]
+  },
+  {
+    "old_id": "C4391488",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify that the saved view popup elements on cabin pane- sailing inventory tab",
+    "sources": [
+      "playwright-automation\\tests\\saved_view.spec.ts:12"
+    ]
+  },
+  {
+    "old_id": "C4391497",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify that the saved view popup elements on cabin pane- meta tab",
+    "sources": [
+      "playwright-automation\\tests\\saved_view.spec.ts:12"
+    ]
+  },
+  {
+    "old_id": "C4391516",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify user is able to open action modal in VI- cabin",
+    "sources": [
+      "playwright-automation\\tests\\vdd_cabin.spec.ts:5"
+    ]
+  }
+]

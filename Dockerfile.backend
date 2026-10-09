@@ -1,0 +1,10 @@
+FROM mcr.microsoft.com/playwright/python:v1.58.0-noble
+
+WORKDIR /app/backend-automation
+
+COPY pytest-automation/requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+COPY pytest-automation/ .
+
+
+CMD ["pytest", "--html=Report.html"]

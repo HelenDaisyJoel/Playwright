@@ -1,0 +1,100 @@
+services:
+
+  ncl_admin:
+    build:
+      context: .
+      dockerfile: Dockerfile.ui
+    env_file:
+      - playwright-automation/.env
+    environment:
+      BRAND: NCL
+      ROLE: admin
+    command: ["npx", "playwright", "test", "--grep", "@NCL-admin"]
+
+  ncl_manager:
+    build:
+      context: .
+      dockerfile: Dockerfile.ui
+    env_file:
+      - playwright-automation/.env
+    environment:
+      BRAND: NCL
+      ROLE: manager
+    command: ["npx", "playwright", "test", "--grep", "@NCL-manager"]
+
+  ncl_analyst:
+    build:
+      context: .
+      dockerfile: Dockerfile.ui
+    env_file:
+      - playwright-automation/.env
+    environment:
+      BRAND: NCL
+      ROLE: analyst
+    command: ["npx", "playwright", "test", "--grep", "@NCL-analyst"]
+
+  oceania_admin:
+    build:
+      context: .
+      dockerfile: Dockerfile.ui
+    env_file:
+      - playwright-automation/.env
+    environment:
+      BRAND: OCEANIA
+      ROLE: admin
+    command: ["npx", "playwright", "test", "--grep", "@OCEANIA-admin"]
+
+  oceania_manager:
+    build:
+      context: .
+      dockerfile: Dockerfile.ui
+    env_file:
+      - playwright-automation/.env
+    environment:
+      BRAND: OCEANIA
+      ROLE: manager
+    command: ["npx", "playwright", "test", "--grep", "@OCEANIA-manager"]
+
+  oceania_analyst:
+    build:
+      context: .
+      dockerfile: Dockerfile.ui
+    env_file:
+      - playwright-automation/.env
+    environment:
+      BRAND: OCEANIA
+      ROLE: analyst
+    command: ["npx", "playwright", "test", "--grep", "@OCEANIA-analyst"]
+
+  regent_admin:
+    build:
+      context: .
+      dockerfile: Dockerfile.ui
+    env_file:
+      - playwright-automation/.env
+    environment:
+      BRAND: REGENT
+      ROLE: admin
+    command: ["npx", "playwright", "test", "--grep", "@REGENT-admin"]
+
+  regent_manager:
+    build:
+      context: .
+      dockerfile: Dockerfile.ui
+    env_file:
+      - playwright-automation/.env
+    environment:
+      BRAND: REGENT
+      ROLE: manager
+    command: ["npx", "playwright", "test", "--grep", "@REGENT-manager"]
+
+  regent_analyst:
+    build:
+      context: .
+      dockerfile: Dockerfile.ui
+    env_file:
+      - playwright-automation/.env
+    environment:
+      BRAND: REGENT
+      ROLE: analyst
+    command: ["npx", "playwright", "test", "--grep", "@REGENT-analyst"]

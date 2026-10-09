@@ -1,0 +1,28 @@
+# Pytest
+/pytest-automation/.auth/
+.env.backend
+.idea
+/pytest-automation/.env
+/pytest-automation/data/clients/__pycache__/
+/pytest-automation/data/__pycache__/
+/pytest-automation/e2e_tests/__pycache__/
+/pytest-automation/report/__pycache__/
+/pytest-automation/utils/__pycache__/
+/pytest-automation/__pycache__/
+/pytest-automation/assets
+/pytest-automation/report.html
+/pytest-automation/report
+/pytest-automation/.pytest_cache
+
+
+# Playwright
+/playwright-automation/node_modules/
+/playwright-automation/test-results/
+/playwright-automation/playwright-report/
+/playwright-automation/blob-report/
+/playwright-automation/playwright/.cache/
+/playwright-automation/html-report/
+/playwright-automation/allure-results/
+/playwright-automation/allure-report/
+/playwright-automation/.env
+/playwright-automation/run_id.txt

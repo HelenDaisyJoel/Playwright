@@ -1,0 +1,5 @@
+# Retry configuration constants
+RETRY_MAX_ATTEMPTS = 3
+RETRY_WAIT_MULTIPLIER = 1
+RETRY_WAIT_MIN = 2
+RETRY_WAIT_MAX = 10

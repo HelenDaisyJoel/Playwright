@@ -1,0 +1,27 @@
+const savedView = {
+    saved_view_heading: '[data-test-id="saved-views-dropdown"] .leading-title-md',
+    saved_view_sub_text: '[data-test-id="saved-views-dropdown"] .leading-label-sm',
+    saved_private_view_btn: '[data-test-id="private-views-toggle"]',
+    saved_public_view_btn: '[data-test-id="public-views-toggle"]',
+    saved_view_collapse_dropdown: '[data-test-id="saved-views-dropdown"] .collapse-title',
+    saved_view_collapse_icon: '[data-test-id="saved-views-dropdown"] .collapse-title .text-sm',
+    saved_view_default_view: '[data-test-id="saved-views-dropdown"] [data-test-id="default-view-option"]',
+    saved_view_noView_text: '[data-test-id="saved-views-dropdown"] .collapse-content',
+    saved_view_save_name_heading: '[data-test-id="saved-views-dropdown"] .leading-label-lg',
+    saved_view_name_field:'[data-test-id="saved-views-dropdown"] .gap-2 .leading-body-md',
+    save_view_name_text_field: '[data-test-id="saved-views-dropdown"] [data-test-id="view-name-input"]',
+    save_view_private_list_item: '[data-test-id="private-views-item"]',
+    save_view_public_list_item: '[data-test-id="public-views-item"]',
+    saved_view_close_btn: '[data-test-id="saved-views-dropdown"] [data-test-id="close-modal-button"]',
+    saved_view_cancel_btn: '[data-test-id="saved-views-dropdown"] [data-test-id="cancel-button"] [data-testid="button-component"]',
+    saved_view_update_btn: '[data-test-id="saved-views-dropdown"] [data-test-id="update-button"] [data-testid="button-component"]',
+    saved_view_save_btn: '[data-test-id="saved-views-dropdown"] .dropdown [data-test-id="save-view-dropdown"]',
+    saved_view_private_list_item: '[data-test-id="saved-views-dropdown"] .menu [data-test-id="save-as-private-option"]',
+    saved_view_public_list_item: '[data-test-id="saved-views-dropdown"] .menu [data-test-id="save-as-public-option"]',
+    saved_view_delete_icon_public: '[data-test-id="saved-views-dropdown"] [data-test-id="delete-public-views-button"]',
+    saved_view_delete_icon_private: '[data-test-id="saved-views-dropdown"] [data-test-id="delete-private-views-button"]',
+    saved_view_delete_text: '[data-test-id="delete-confirmation-message"]',
+    saved_view_delete_button: '[data-test-id="delete-confirm-button"]',
+} as const;
+
+export default savedView;

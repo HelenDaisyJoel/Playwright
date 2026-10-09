@@ -1,0 +1,1 @@
+../node_modules/@norwegian-cruise-line/ai-playwright-sdk/.claude/openspec-schema.md

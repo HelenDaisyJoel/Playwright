@@ -1,0 +1,28 @@
+{
+  "name": "playwright_poc",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "sanity": "npx playwright test --grep '@sanity'",
+    "sanity:ui": "npx playwright test --grep '@sanity' --ui",
+    "regression": "npx playwright test --grep '@regression'",
+    "regression:ui": "npx playwright test --grep '@regression' --ui",
+    "sanity_regression": "npx playwright test --grep '@sanity.*@regression'",
+    "sanity_regression:ui": "npx playwright test --grep '@sanity.*@regression' --ui",
+    "typecheck": "tsc --noEmit",
+    "allure:generate": "npx allure generate allure-results && echo \"Report: allure-report/index.html\"",
+    "allure:open": "npm run allure:generate && open allure-report/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.29",
+    "allure-playwright": "^3.10.2",
+    "dotenv": "^16.5.0",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {}
+}

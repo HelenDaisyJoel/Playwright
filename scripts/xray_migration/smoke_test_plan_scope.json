@@ -1,0 +1,526 @@
+{
+  "total_tests": 42,
+  "total_primary_keys": 31,
+  "total_unique_keys": 42,
+  "primary_keys": [
+    "RST-2522",
+    "RST-2323",
+    "RST-2350",
+    "RST-2335",
+    "RST-2336",
+    "RST-2352",
+    "RST-2349",
+    "RST-2329",
+    "RST-2330",
+    "RST-2334",
+    "RST-2316",
+    "RST-2305",
+    "RST-2306",
+    "RST-2353",
+    "RST-2356",
+    "RST-2364",
+    "RST-2395",
+    "RST-2416",
+    "RST-2357",
+    "RST-2359",
+    "RST-2399",
+    "RST-2368",
+    "RST-2369",
+    "RST-2412",
+    "RST-2417",
+    "RST-2421",
+    "RST-2485",
+    "RST-2459",
+    "RST-2407",
+    "RST-2403",
+    "RST-2406"
+  ],
+  "unique_keys": [
+    "RST-2305",
+    "RST-2306",
+    "RST-2307",
+    "RST-2316",
+    "RST-2323",
+    "RST-2324",
+    "RST-2328",
+    "RST-2329",
+    "RST-2330",
+    "RST-2332",
+    "RST-2333",
+    "RST-2334",
+    "RST-2335",
+    "RST-2336",
+    "RST-2349",
+    "RST-2350",
+    "RST-2352",
+    "RST-2353",
+    "RST-2354",
+    "RST-2355",
+    "RST-2356",
+    "RST-2357",
+    "RST-2359",
+    "RST-2360",
+    "RST-2364",
+    "RST-2368",
+    "RST-2369",
+    "RST-2395",
+    "RST-2399",
+    "RST-2403",
+    "RST-2405",
+    "RST-2406",
+    "RST-2407",
+    "RST-2412",
+    "RST-2413",
+    "RST-2416",
+    "RST-2417",
+    "RST-2421",
+    "RST-2459",
+    "RST-2482",
+    "RST-2485",
+    "RST-2522"
+  ],
+  "tests": [
+    {
+      "file": "playwright-automation/tests/config_pane.spec.ts",
+      "line": 5,
+      "title": "verify user is able to view different components on config page [RST-2522] @smoke",
+      "keys": [
+        "RST-2522"
+      ],
+      "primary_key": "RST-2522"
+    },
+    {
+      "file": "playwright-automation/tests/dashboard.spec.ts",
+      "line": 5,
+      "title": "verify summary flex headers on dashboard @smoke [RST-2323, RST-2324]",
+      "keys": [
+        "RST-2323",
+        "RST-2324"
+      ],
+      "primary_key": "RST-2323"
+    },
+    {
+      "file": "playwright-automation/tests/dashboard.spec.ts",
+      "line": 30,
+      "title": "verify summary flex headers show the colours via API- Blue for promos [RST-2323]",
+      "keys": [
+        "RST-2323"
+      ],
+      "primary_key": "RST-2323"
+    },
+    {
+      "file": "playwright-automation/tests/dashboard.spec.ts",
+      "line": 81,
+      "title": "verify the my priority component and user navigates to pricing page @smoke [RST-2350, RST-2352, RST-2352]",
+      "keys": [
+        "RST-2350",
+        "RST-2352",
+        "RST-2352"
+      ],
+      "primary_key": "RST-2350"
+    },
+    {
+      "file": "playwright-automation/tests/dashboard.spec.ts",
+      "line": 143,
+      "title": "verify the Opportunity breakdown component heading, sub-heading and tiles [RST-2335]",
+      "keys": [
+        "RST-2335"
+      ],
+      "primary_key": "RST-2335"
+    },
+    {
+      "file": "playwright-automation/tests/dashboard.spec.ts",
+      "line": 180,
+      "title": "verify the spill with pc tile can navigate the user to pricing page with filters @smoke [RST-2336, RST-2356]",
+      "keys": [
+        "RST-2336",
+        "RST-2356"
+      ],
+      "primary_key": "RST-2336"
+    },
+    {
+      "file": "playwright-automation/tests/dashboard.spec.ts",
+      "line": 202,
+      "title": "verify the spill with tactical tile can navigate the user to pricing page with filters [RST-2352, RST-2356]",
+      "keys": [
+        "RST-2352",
+        "RST-2356"
+      ],
+      "primary_key": "RST-2352"
+    },
+    {
+      "file": "playwright-automation/tests/dashboard.spec.ts",
+      "line": 224,
+      "title": "verify the no change tile can navigate the user to pricing page with filters [RST-2352, RST-2356]",
+      "keys": [
+        "RST-2352",
+        "RST-2356"
+      ],
+      "primary_key": "RST-2352"
+    },
+    {
+      "file": "playwright-automation/tests/dashboard.spec.ts",
+      "line": 246,
+      "title": "verify the optimization tile can navigate the user to pricing page with filters @smoke [RST-2349, RST-2356]",
+      "keys": [
+        "RST-2349",
+        "RST-2356"
+      ],
+      "primary_key": "RST-2349"
+    },
+    {
+      "file": "playwright-automation/tests/dashboard.spec.ts",
+      "line": 268,
+      "title": "verify the blackout tile can navigate the user to pricing page with filters [RST-2352, RST-2356]",
+      "keys": [
+        "RST-2352",
+        "RST-2356"
+      ],
+      "primary_key": "RST-2352"
+    },
+    {
+      "file": "playwright-automation/tests/dashboard.spec.ts",
+      "line": 290,
+      "title": "verify the spoil with pc tile can navigate the user to pricing page with filters [RST-2352, RST-2356]",
+      "keys": [
+        "RST-2352",
+        "RST-2356"
+      ],
+      "primary_key": "RST-2352"
+    },
+    {
+      "file": "playwright-automation/tests/dashboard.spec.ts",
+      "line": 314,
+      "title": "verify the spoil with tactical tile can navigate the user to pricing page with filters @smoke [RST-2352, RST-2356]",
+      "keys": [
+        "RST-2352",
+        "RST-2356"
+      ],
+      "primary_key": "RST-2352"
+    },
+    {
+      "file": "playwright-automation/tests/dashboard.spec.ts",
+      "line": 338,
+      "title": "verify review rate breakdown chart heading, default value, dropdown items and navigate to pricing page @smoke [RST-2329, RST-2330, RST-2328]",
+      "keys": [
+        "RST-2329",
+        "RST-2330",
+        "RST-2328"
+      ],
+      "primary_key": "RST-2329"
+    },
+    {
+      "file": "playwright-automation/tests/dashboard.spec.ts",
+      "line": 377,
+      "title": "verify review rate breakdown chart different view by options @smoke [RST-2330, RST-2329, RST-2330]",
+      "keys": [
+        "RST-2330",
+        "RST-2329",
+        "RST-2330"
+      ],
+      "primary_key": "RST-2330"
+    },
+    {
+      "file": "playwright-automation/tests/dashboard.spec.ts",
+      "line": 426,
+      "title": "verify review rate chart heading, legend and navigate to pricing page @smoke [RST-2334, RST-2333, RST-2332]",
+      "keys": [
+        "RST-2334",
+        "RST-2333",
+        "RST-2332"
+      ],
+      "primary_key": "RST-2334"
+    },
+    {
+      "file": "playwright-automation/tests/filters.spec.ts",
+      "line": 6,
+      "title": "verify user is able to open the filter component on dashboard @smoke [RST-2316, RST-2316, RST-2316]",
+      "keys": [
+        "RST-2316",
+        "RST-2316",
+        "RST-2316"
+      ],
+      "primary_key": "RST-2316"
+    },
+    {
+      "file": "playwright-automation/tests/filters.spec.ts",
+      "line": 306,
+      "title": "verify user is able to open the filter component on dashboard @smoke [RST-2316, RST-2316, RST-2316]",
+      "keys": [
+        "RST-2316",
+        "RST-2316",
+        "RST-2316"
+      ],
+      "primary_key": "RST-2316"
+    },
+    {
+      "file": "playwright-automation/tests/nav_bar.spec.ts",
+      "line": 5,
+      "title": "verify global nav bar items [RST-2305, RST-2306, RST-2307, RST-2316, RST-2306]",
+      "keys": [
+        "RST-2305",
+        "RST-2306",
+        "RST-2307",
+        "RST-2316",
+        "RST-2306"
+      ],
+      "primary_key": "RST-2305"
+    },
+    {
+      "file": "playwright-automation/tests/nav_bar.spec.ts",
+      "line": 23,
+      "title": "verify user can navigate to different pages from the nav bar [RST-2306, RST-2306, RST-2306, RST-2306, RST-2306, RST-2306]",
+      "keys": [
+        "RST-2306",
+        "RST-2306",
+        "RST-2306",
+        "RST-2306",
+        "RST-2306",
+        "RST-2306"
+      ],
+      "primary_key": "RST-2306"
+    },
+    {
+      "file": "playwright-automation/tests/nav_bar.spec.ts",
+      "line": 76,
+      "title": "verify global nav bar items [RST-2305, RST-2306, RST-2307, RST-2316, RST-2306]",
+      "keys": [
+        "RST-2305",
+        "RST-2306",
+        "RST-2307",
+        "RST-2316",
+        "RST-2306"
+      ],
+      "primary_key": "RST-2305"
+    },
+    {
+      "file": "playwright-automation/tests/nav_bar.spec.ts",
+      "line": 93,
+      "title": "verify user can navigate to different pages from the nav bar [RST-2306, RST-2306, RST-2306]",
+      "keys": [
+        "RST-2306",
+        "RST-2306",
+        "RST-2306"
+      ],
+      "primary_key": "RST-2306"
+    },
+    {
+      "file": "playwright-automation/tests/pricing.spec.ts",
+      "line": 6,
+      "title": "verify the pricing page components with toggle on and off @smoke [RST-2353, RST-2354, RST-2355]",
+      "keys": [
+        "RST-2353",
+        "RST-2354",
+        "RST-2355"
+      ],
+      "primary_key": "RST-2353"
+    },
+    {
+      "file": "playwright-automation/tests/pricing.spec.ts",
+      "line": 251,
+      "title": "verify that the user is able to apply filters @smoke [RST-2356]",
+      "keys": [
+        "RST-2356"
+      ],
+      "primary_key": "RST-2356"
+    },
+    {
+      "file": "playwright-automation/tests/pricing.spec.ts",
+      "line": 293,
+      "title": "verify the pricing page components with toggle on and off @smoke [RST-2353, RST-2354, RST-2355]",
+      "keys": [
+        "RST-2353",
+        "RST-2354",
+        "RST-2355"
+      ],
+      "primary_key": "RST-2353"
+    },
+    {
+      "file": "playwright-automation/tests/pricing.spec.ts",
+      "line": 465,
+      "title": "verify that the user is able to apply filters @smoke [RST-2356]",
+      "keys": [
+        "RST-2356"
+      ],
+      "primary_key": "RST-2356"
+    },
+    {
+      "file": "playwright-automation/tests/pricing.spec.ts",
+      "line": 507,
+      "title": "verify the pricing page- pattern finder @smoke [RST-2364, RST-2364, RST-2364]",
+      "keys": [
+        "RST-2364",
+        "RST-2364",
+        "RST-2364"
+      ],
+      "primary_key": "RST-2364"
+    },
+    {
+      "file": "playwright-automation/tests/pricing.spec.ts",
+      "line": 585,
+      "title": "verify the pricing page- bulk action @smoke [RST-2395, RST-2395, RST-2395]",
+      "keys": [
+        "RST-2395",
+        "RST-2395",
+        "RST-2395"
+      ],
+      "primary_key": "RST-2395"
+    },
+    {
+      "file": "playwright-automation/tests/pricing.spec.ts",
+      "line": 676,
+      "title": "verify user is able to view the action modal in sailing depp dive page from action column [RST-2416, RST-2357, RST-2357, RST-2360, RST-2357]",
+      "keys": [
+        "RST-2416",
+        "RST-2357",
+        "RST-2357",
+        "RST-2360",
+        "RST-2357"
+      ],
+      "primary_key": "RST-2416"
+    },
+    {
+      "file": "playwright-automation/tests/pricing.spec.ts",
+      "line": 783,
+      "title": "verify user is able to view the action modal in pricing page from overbooking-opportunity column [RST-2357]",
+      "keys": [
+        "RST-2357"
+      ],
+      "primary_key": "RST-2357"
+    },
+    {
+      "file": "playwright-automation/tests/pricing.spec.ts",
+      "line": 884,
+      "title": "verify user is able to view the action modal in pricing page from pricing-opportunity column [RST-2359]",
+      "keys": [
+        "RST-2359"
+      ],
+      "primary_key": "RST-2359"
+    },
+    {
+      "file": "playwright-automation/tests/pricing.spec.ts",
+      "line": 974,
+      "title": "verify the pricing page- lettered voyage [RST-2399, RST-2399, RST-2399]",
+      "keys": [
+        "RST-2399",
+        "RST-2399",
+        "RST-2399"
+      ],
+      "primary_key": "RST-2399"
+    },
+    {
+      "file": "playwright-automation/tests/saved_view.spec.ts",
+      "line": 13,
+      "title": "verify that the saved view popup elements on prio pane @smoke [RST-2368]",
+      "keys": [
+        "RST-2368"
+      ],
+      "primary_key": "RST-2368"
+    },
+    {
+      "file": "playwright-automation/tests/saved_view.spec.ts",
+      "line": 254,
+      "title": "verify that user is able to add a public view @smoke [RST-2369]",
+      "keys": [
+        "RST-2369"
+      ],
+      "primary_key": "RST-2369"
+    },
+    {
+      "file": "playwright-automation/tests/vdd_cabin.spec.ts",
+      "line": 6,
+      "title": "Verify the grid headers for the VI- cabin @smoke [RST-2412, RST-2413]",
+      "keys": [
+        "RST-2412",
+        "RST-2413"
+      ],
+      "primary_key": "RST-2412"
+    },
+    {
+      "file": "playwright-automation/tests/vdd_cabin.spec.ts",
+      "line": 324,
+      "title": "Verify user is able to open action modal in VI- cabin @smoke [RST-2416]",
+      "keys": [
+        "RST-2416"
+      ],
+      "primary_key": "RST-2416"
+    },
+    {
+      "file": "playwright-automation/tests/vdd_cabin.spec.ts",
+      "line": 439,
+      "title": "Verify the grid headers for the Meta- cabin @smoke [RST-2417, RST-2417]",
+      "keys": [
+        "RST-2417",
+        "RST-2417"
+      ],
+      "primary_key": "RST-2417"
+    },
+    {
+      "file": "playwright-automation/tests/vdd_cabin.spec.ts",
+      "line": 784,
+      "title": "Verify user is able to open action modal in meta- cabin @smoke [RST-2421]",
+      "keys": [
+        "RST-2421"
+      ],
+      "primary_key": "RST-2421"
+    },
+    {
+      "file": "playwright-automation/tests/vdd_group.spec.ts",
+      "line": 88,
+      "title": "Verify the group tab with filters for Meta tab @smoke [RST-2485, RST-2482, RST-2485]",
+      "keys": [
+        "RST-2485",
+        "RST-2482",
+        "RST-2485"
+      ],
+      "primary_key": "RST-2485"
+    },
+    {
+      "file": "playwright-automation/tests/vdd_sourceMarket.spec.ts",
+      "line": 7,
+      "title": "Verify the source market tab elements for VI tab @smoke [RST-2459, RST-2459, RST-2459, RST-2459, RST-2459]",
+      "keys": [
+        "RST-2459",
+        "RST-2459",
+        "RST-2459",
+        "RST-2459",
+        "RST-2459"
+      ],
+      "primary_key": "RST-2459"
+    },
+    {
+      "file": "playwright-automation/tests/view_key_metrics.spec.ts",
+      "line": 6,
+      "title": "verify user is able to open view key metrics popup on VI tab  @smoke [RST-2407, RST-2407, RST-2407, RST-2407]",
+      "keys": [
+        "RST-2407",
+        "RST-2407",
+        "RST-2407",
+        "RST-2407"
+      ],
+      "primary_key": "RST-2407"
+    },
+    {
+      "file": "playwright-automation/tests/voyage_deep_dive.spec.ts",
+      "line": 6,
+      "title": "verify user is able to navigate to voyage deep dive page and navigate to different tabs @smoke [RST-2403, RST-2405, RST-2406, RST-2406]",
+      "keys": [
+        "RST-2403",
+        "RST-2405",
+        "RST-2406",
+        "RST-2406"
+      ],
+      "primary_key": "RST-2403"
+    },
+    {
+      "file": "playwright-automation/tests/voyage_deep_dive.spec.ts",
+      "line": 170,
+      "title": "verify user is able to navigate to voyage deep dive page and navigate to different tabs @smoke [RST-2406, RST-2406]",
+      "keys": [
+        "RST-2406",
+        "RST-2406"
+      ],
+      "primary_key": "RST-2406"
+    }
+  ]
+}

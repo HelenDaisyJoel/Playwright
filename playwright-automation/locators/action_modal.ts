@@ -1,0 +1,47 @@
+const actionModal = {
+  action_modal_overbooking_opportunity_button: '[col-id="related_priority_info.ovb_opportunity"] [data-testid="button-component"], [col-id="related_priority_info.ovb_opportunity"] [role="button"]',
+  action_modal_actions_column_button: '[col-id="actions"] [data-testid="button-component"], [col-id="actions"] [role="button"]',
+    action_modal_popup: '[data-testid="review-action-modal-content"]',
+    action_modal_heading: '[data-testid="review-action-modal-content"] [data-testid="review-action-modal-header"] [data-testid="modal-title"]',
+    action_modal_sub_text: '[data-testid="review-action-modal-content"] [data-testid="review-action-modal-header"] [data-testid="modal-subtitle"]',
+    action_modal_close_button: '[data-testid="review-action-modal-content"] [data-testid="review-action-modal-header"] button[aria-label="Close modal"]',
+    action_modal_voyage_name: '[data-testid="review-action-modal-content"] [data-testid="voyage-details-section"] [data-testid="voyage-header"]',
+    action_modal_voyage_info: '[data-testid="review-action-modal-content"] [data-testid="voyage-details-section"] [data-testid="trip-info"]',
+    action_modal_approve_action: '[data-testid="review-action-modal-content"] [data-testid="action-tabs-section"] [data-testid="accept-tab"]',
+    action_modal_override_action: '[data-testid="review-action-modal-content"] [data-testid="action-tabs-section"] [data-testid="override-tab"]',
+    action_modal_tactical_action: '[data-testid="review-action-modal-content"] [data-testid="action-tabs-section"] [data-testid="tactical-tab"]',
+
+    action_modal_approve_recom_price: '[data-testid="recommended-price-row"]',
+    action_modal_approve_lead_in_do_price: '[data-testid="lead-in-price-row"]',
+    action_modal_approve_add_note_header: '[data-testid="review-action-modal-content"] [data-testid="accept-tab-content"] [data-testid="note-section"] .w-full.mb-3',
+    action_modal_approve_add_note_text_field: '[data-testid="review-action-modal-content"] [data-testid="accept-tab-content"] [data-testid="note-section"] [data-testid="note-textarea"]',
+    action_modal_approve_cancel_btn: '[data-testid="review-action-modal-content"] [data-testid="accept-tab-content"] [data-testid="action-buttons"] [text="Cancel"]',
+    action_modal_approve_snooze_btn: '[data-testid="review-action-modal-content"] [data-testid="accept-tab-content"] [data-testid="action-buttons"] [text="Snooze Reco"]',
+    action_modal_approve_save_btn: '[data-testid="review-action-modal-content"] [data-testid="accept-tab-content"] [data-testid="action-buttons"] [text="Save changes"]',
+    
+    action_modal_override_override_price: '[data-testid="proposed-override-row"]',
+    action_modal_override_lead_in_do_price: '[data-testid="current-lead-in-price-row"]',
+    action_modal_override_pending_price: '[data-testid="percentage-change-row"]',
+    action_modal_override_markForReview: '[data-testid="review-action-modal-content"] [data-testid="override-tab-content"] [data-testid="manager-review-row"]',
+    action_modal_overrive_add_note_header: '[data-testid="review-action-modal-content"] [data-testid="override-tab-content"] [data-testid="note-section"] .w-full.mb-3',
+    action_modal_overrice_add_note_text_field: '[data-testid="review-action-modal-content"] [data-testid="override-tab-content"] [data-testid="note-section"] [data-testid="note-textarea"]',
+    action_modal_override_cancel_btn: '[data-testid="review-action-modal-content"] [data-testid="override-tab-content"] [data-testid="action-buttons"] [text="Cancel"]',
+    action_modal_override_snooze_btn: '[data-testid="review-action-modal-content"] [data-testid="override-tab-content"] [data-testid="action-buttons"] [text="Snooze Reco"]',
+    action_modal_override_save_btn: '[data-testid="review-action-modal-content"] [data-testid="override-tab-content"] [data-testid="action-buttons"] [text="Save changes"]',
+
+    action_modal_tactical_inventory_heading: '[data-testid="review-action-modal-content"] [data-testid="tactical-tab-content"] [data-testid="inventory-section"] .leading-4',
+    action_modal_tactical_inventory_field_text: '[data-testid="review-action-modal-content"] [data-testid="tactical-tab-content"] [data-testid="inventory-section"] [data-testid="lower-meta-overbooking-row"]',
+    action_modal_tactical_inventory_input_field: '[data-testid="review-action-modal-content"] [data-testid="tactical-tab-content"] [data-testid="inventory-section"] [data-testid="lower-meta-overbooking-input"]',
+    action_modal_tactical_fare_heading: '[data-testid="review-action-modal-content"] [data-testid="tactical-tab-content"] [data-testid="fare-section"] .leading-4',
+    action_modal_tactical_fare_sailaway_avail_field_row: '[data-testid="review-action-modal-content"] [data-testid="tactical-tab-content"] [data-testid="fare-section"] [data-testid="sailaway-availability-row"]',
+    action_modal_tactical_fare_sailaway_avail_toggle_btn: '[data-testid="review-action-modal-content"] [data-testid="tactical-tab-content"] [data-testid="fare-section"] [data-testid="sailaway-availability-row"] [data-testid="sailaway-availability-toggle"]',
+    action_modal_tactical_fare_sailaway_discount_field_row: '[data-testid="review-action-modal-content"] [data-testid="tactical-tab-content"] [data-testid="fare-section"] [data-testid="sailaway-discount-row"]',
+    action_modal_tactical_fare_sailaway_discount_text_field: '[data-testid="review-action-modal-content"] [data-testid="tactical-tab-content"] [data-testid="fare-section"] [data-testid="sailaway-discount-row"] [data-testid="sailaway-discount-input"]',
+    action_modal_tactical_add_note_header: '[data-testid="review-action-modal-content"] [data-testid="tactical-tab-content"] [data-testid="note-section"] .w-full.mb-3',
+    action_modal_tactical_add_note_text_field: '[data-testid="review-action-modal-content"] [data-testid="tactical-tab-content"] [data-testid="note-section"] [data-testid="note-textarea"]',
+    action_modal_tactical_cancel_btn: '[data-testid="review-action-modal-content"] [data-testid="tactical-tab-content"] [data-testid="action-buttons"] [text="Cancel"]',
+    action_modal_tactical_save_btn: '[data-testid="review-action-modal-content"] [data-testid="tactical-tab-content"] [data-testid="action-buttons"] [text="Save Tactical Changes"]',
+   
+  } as const;
+
+export default actionModal;

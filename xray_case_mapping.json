@@ -1,0 +1,5960 @@
+{
+  "4101318": {
+    "jira_key": "RST-3275",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard filter"
+  },
+  "4101319": {
+    "jira_key": "RST-3276",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard summary"
+  },
+  "4101320": {
+    "jira_key": "RST-3277",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard rate split region"
+  },
+  "4101321": {
+    "jira_key": "RST-3279",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard rate split ship class"
+  },
+  "4101322": {
+    "jira_key": "RST-3280",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard rate split voyage length"
+  },
+  "4101323": {
+    "jira_key": "RST-3281",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard rate split booking horizon"
+  },
+  "4101324": {
+    "jira_key": "RST-3282",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard rate split meta category"
+  },
+  "4101325": {
+    "jira_key": "RST-3283",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard opportunity breakdown region"
+  },
+  "4101326": {
+    "jira_key": "RST-3284",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard opportunity breakdown ship class"
+  },
+  "4101327": {
+    "jira_key": "RST-3285",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard opportunity breakdown voyage length"
+  },
+  "4101328": {
+    "jira_key": "RST-3286",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard opportunity breakdown booking horizon"
+  },
+  "4101329": {
+    "jira_key": "RST-3287",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard opportunity breakdown meta category"
+  },
+  "4101330": {
+    "jira_key": "RST-3288",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter shipclass single select"
+  },
+  "4101331": {
+    "jira_key": "RST-3289",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter shipclass multi select"
+  },
+  "4101332": {
+    "jira_key": "RST-3290",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter ships single select"
+  },
+  "4101333": {
+    "jira_key": "RST-3291",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter ships multi select"
+  },
+  "4101334": {
+    "jira_key": "RST-3292",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter departure date range"
+  },
+  "4101335": {
+    "jira_key": "RST-3293",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter booking horizon single select"
+  },
+  "4101336": {
+    "jira_key": "RST-3294",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter booking horizon multi select"
+  },
+  "4101337": {
+    "jira_key": "RST-3295",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter region single select"
+  },
+  "4101338": {
+    "jira_key": "RST-3296",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter region multi select"
+  },
+  "4101339": {
+    "jira_key": "RST-3297",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter market single select"
+  },
+  "4101340": {
+    "jira_key": "RST-3298",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter market multi select"
+  },
+  "4101341": {
+    "jira_key": "RST-3299",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter voyageLengths single select"
+  },
+  "4101342": {
+    "jira_key": "RST-3300",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter voyageLengths multi select"
+  },
+  "4101343": {
+    "jira_key": "RST-3301",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter metaCategories single select"
+  },
+  "4101344": {
+    "jira_key": "RST-3302",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter metaCategories multi select"
+  },
+  "4101348": {
+    "jira_key": "RST-3303",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard all global filter"
+  },
+  "4101349": {
+    "jira_key": "RST-3304",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter shipclass invalid option"
+  },
+  "4101350": {
+    "jira_key": "RST-3305",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter shipclass outOfBound option"
+  },
+  "4101351": {
+    "jira_key": "RST-3306",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter ships invalid option"
+  },
+  "4101352": {
+    "jira_key": "RST-3307",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter ships outOfBound option"
+  },
+  "4101353": {
+    "jira_key": "RST-3308",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter departure date range invalid option"
+  },
+  "4101354": {
+    "jira_key": "RST-3309",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter departure date range outOfBound option"
+  },
+  "4101355": {
+    "jira_key": "RST-3310",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter booking horizon invalid option"
+  },
+  "4101356": {
+    "jira_key": "RST-3311",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter booking horizon outOfBound option"
+  },
+  "4101357": {
+    "jira_key": "RST-3312",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter region invalid option"
+  },
+  "4101358": {
+    "jira_key": "RST-3313",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter region outOfBound option"
+  },
+  "4101359": {
+    "jira_key": "RST-3314",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter markets invalid option"
+  },
+  "4101360": {
+    "jira_key": "RST-3315",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter markets outOfBound option"
+  },
+  "4101361": {
+    "jira_key": "RST-3316",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter voyageLengths invalid option"
+  },
+  "4101362": {
+    "jira_key": "RST-3317",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter voyageLengths outOfBound option"
+  },
+  "4101363": {
+    "jira_key": "RST-3318",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter metaCategories invalid option"
+  },
+  "4101364": {
+    "jira_key": "RST-3319",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get dashboard global filter metaCategories outOfBound option"
+  },
+  "4101369": {
+    "jira_key": "RST-3320",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing page 1"
+  },
+  "4101370": {
+    "jira_key": "RST-3321",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing page 2"
+  },
+  "4101371": {
+    "jira_key": "RST-3322",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing page 3"
+  },
+  "4101372": {
+    "jira_key": "RST-3323",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing page 4"
+  },
+  "4101374": {
+    "jira_key": "RST-3324",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter voyage name"
+  },
+  "4101375": {
+    "jira_key": "RST-3325",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter dept date"
+  },
+  "4101376": {
+    "jira_key": "RST-3326",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter voyage length"
+  },
+  "4101377": {
+    "jira_key": "RST-3327",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter rev opp"
+  },
+  "4101378": {
+    "jira_key": "RST-3328",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter priority"
+  },
+  "4101379": {
+    "jira_key": "RST-3329",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter blackout true"
+  },
+  "4101380": {
+    "jira_key": "RST-3330",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter blackout false"
+  },
+  "4101381": {
+    "jira_key": "RST-3331",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter boLiftDate blank"
+  },
+  "4101382": {
+    "jira_key": "RST-3332",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter boLiftDate notBlank"
+  },
+  "4101383": {
+    "jira_key": "RST-3333",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter meta"
+  },
+  "4101384": {
+    "jira_key": "RST-3334",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter opportunity spill"
+  },
+  "4101385": {
+    "jira_key": "RST-3335",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter opportunity spoil"
+  },
+  "4101386": {
+    "jira_key": "RST-3336",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter opportunity noChange"
+  },
+  "4101387": {
+    "jira_key": "RST-3337",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter overbookingOpportunity true"
+  },
+  "4101388": {
+    "jira_key": "RST-3338",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter overbookingOpportunity false"
+  },
+  "4101389": {
+    "jira_key": "RST-3339",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter pricingOpportunity true"
+  },
+  "4101390": {
+    "jira_key": "RST-3340",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter pricingOpportunity false"
+  },
+  "4101391": {
+    "jira_key": "RST-3341",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter sailawayOpportunity true"
+  },
+  "4101392": {
+    "jira_key": "RST-3342",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter sailawayOpportunity false"
+  },
+  "4176231": {
+    "jira_key": "RST-3404",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing page blank params"
+  },
+  "4176232": {
+    "jira_key": "RST-3405",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing page invalid page"
+  },
+  "4176233": {
+    "jira_key": "RST-3406",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing page outOfBound page"
+  },
+  "4176234": {
+    "jira_key": "RST-3407",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing page invalid pageSize"
+  },
+  "4176235": {
+    "jira_key": "RST-3408",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing page outOfBound pageSize"
+  },
+  "4176236": {
+    "jira_key": "RST-3409",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing page invalid startRow"
+  },
+  "4176237": {
+    "jira_key": "RST-3410",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing page invalid endRow"
+  },
+  "4176238": {
+    "jira_key": "RST-3411",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing page outOfBound startRow"
+  },
+  "4176239": {
+    "jira_key": "RST-3412",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing page outOfBound endRow"
+  },
+  "4176240": {
+    "jira_key": "RST-3413",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter invalid column name"
+  },
+  "4176241": {
+    "jira_key": "RST-3414",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter invalid type"
+  },
+  "4176242": {
+    "jira_key": "RST-3415",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter invalid filter"
+  },
+  "4176243": {
+    "jira_key": "RST-3416",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter invalid filterType"
+  },
+  "4176244": {
+    "jira_key": "RST-3417",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "get pricing filter blank values"
+  },
+  "4203906": {
+    "jira_key": "RST-3442",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage info correct value"
+  },
+  "4203907": {
+    "jira_key": "RST-3443",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage info blank value"
+  },
+  "4203908": {
+    "jira_key": "RST-3444",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage info incorrect value"
+  },
+  "4203909": {
+    "jira_key": "RST-3445",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage navigation correct value"
+  },
+  "4203910": {
+    "jira_key": "RST-3446",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage navigation blank value"
+  },
+  "4203911": {
+    "jira_key": "RST-3447",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage navigation incorrect value"
+  },
+  "4203912": {
+    "jira_key": "RST-3448",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage key metrics correct value"
+  },
+  "4203913": {
+    "jira_key": "RST-3449",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage key metrics blank value"
+  },
+  "4203914": {
+    "jira_key": "RST-3450",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage key metrics incorrect value"
+  },
+  "4203915": {
+    "jira_key": "RST-3451",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage inv correct value"
+  },
+  "4203916": {
+    "jira_key": "RST-3452",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage inv blank value"
+  },
+  "4203917": {
+    "jira_key": "RST-3453",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage inv incorrect value"
+  },
+  "4203918": {
+    "jira_key": "RST-3454",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage inv meta correct value"
+  },
+  "4203919": {
+    "jira_key": "RST-3455",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage inv meta blank value"
+  },
+  "4203920": {
+    "jira_key": "RST-3456",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage inv meta incorrect value"
+  },
+  "4203921": {
+    "jira_key": "RST-3457",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage cabin chart correct value"
+  },
+  "4203922": {
+    "jira_key": "RST-3458",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage cabin chart blank value"
+  },
+  "4203923": {
+    "jira_key": "RST-3459",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage cabin chart incorrect value"
+  },
+  "4203924": {
+    "jira_key": "RST-3460",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market correct value"
+  },
+  "4203925": {
+    "jira_key": "RST-3461",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market blank value"
+  },
+  "4203926": {
+    "jira_key": "RST-3462",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market incorrect value"
+  },
+  "4203927": {
+    "jira_key": "RST-3463",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market with time correct value"
+  },
+  "4203928": {
+    "jira_key": "RST-3464",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market with time blank value"
+  },
+  "4203929": {
+    "jira_key": "RST-3465",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market with time incorrect value"
+  },
+  "4203930": {
+    "jira_key": "RST-3466",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market with bookingType correct value"
+  },
+  "4203931": {
+    "jira_key": "RST-3467",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market with bookingType blank value"
+  },
+  "4203932": {
+    "jira_key": "RST-3468",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market with bookingType incorrect value"
+  },
+  "4203933": {
+    "jira_key": "RST-3469",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market with bookingType time correct value"
+  },
+  "4203934": {
+    "jira_key": "RST-3470",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market with bookingType time blank value"
+  },
+  "4203935": {
+    "jira_key": "RST-3471",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market with bookingType time incorrect value"
+  },
+  "4203936": {
+    "jira_key": "RST-3472",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market meta correct value"
+  },
+  "4203937": {
+    "jira_key": "RST-3473",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market meta blank value"
+  },
+  "4203938": {
+    "jira_key": "RST-3474",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market meta incorrect value"
+  },
+  "4203939": {
+    "jira_key": "RST-3475",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market meta with time correct value"
+  },
+  "4203940": {
+    "jira_key": "RST-3476",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market meta with time blank value"
+  },
+  "4203941": {
+    "jira_key": "RST-3477",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market meta with time incorrect value"
+  },
+  "4203942": {
+    "jira_key": "RST-3478",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market meta with bookingType correct value"
+  },
+  "4203943": {
+    "jira_key": "RST-3479",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market meta with bookingType blank value"
+  },
+  "4203944": {
+    "jira_key": "RST-3480",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market meta with bookingType incorrect value"
+  },
+  "4203945": {
+    "jira_key": "RST-3481",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market meta with bookingType time correct value"
+  },
+  "4203946": {
+    "jira_key": "RST-3482",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market meta with bookingType time blank value"
+  },
+  "4203947": {
+    "jira_key": "RST-3483",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage promo market meta with bookingType time incorrect value"
+  },
+  "4203948": {
+    "jira_key": "RST-3484",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage source market correct value"
+  },
+  "4203949": {
+    "jira_key": "RST-3485",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage source market blank value"
+  },
+  "4203950": {
+    "jira_key": "RST-3486",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage source market incorrect value"
+  },
+  "4203951": {
+    "jira_key": "RST-3487",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage source market bookings correct value"
+  },
+  "4203952": {
+    "jira_key": "RST-3488",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage source market bookings blank value"
+  },
+  "4203953": {
+    "jira_key": "RST-3489",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage source market bookings incorrect value"
+  },
+  "4203954": {
+    "jira_key": "RST-3490",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage source market room type correct value"
+  },
+  "4203955": {
+    "jira_key": "RST-3491",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage source market room type blank value"
+  },
+  "4203956": {
+    "jira_key": "RST-3492",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage source market room type incorrect value"
+  },
+  "4203958": {
+    "jira_key": "RST-3493",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage source market bookings correct value with time filter"
+  },
+  "4203959": {
+    "jira_key": "RST-3494",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage source market room type correct value with time filter"
+  },
+  "4203960": {
+    "jira_key": "RST-3495",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage source market meta correct value"
+  },
+  "4203961": {
+    "jira_key": "RST-3496",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage source market meta blank value"
+  },
+  "4203962": {
+    "jira_key": "RST-3497",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage source market meta incorrect value"
+  },
+  "4203963": {
+    "jira_key": "RST-3498",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage source market meta bookings correct value"
+  },
+  "4203964": {
+    "jira_key": "RST-3499",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage source market meta bookings blank value"
+  },
+  "4203965": {
+    "jira_key": "RST-3500",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage source market meta bookings incorrect value"
+  },
+  "4203966": {
+    "jira_key": "RST-3501",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage source market meta room type correct value"
+  },
+  "4203967": {
+    "jira_key": "RST-3502",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage source market meta room type blank value"
+  },
+  "4203968": {
+    "jira_key": "RST-3503",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage source market meta room type incorrect value"
+  },
+  "4203970": {
+    "jira_key": "RST-3504",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage source market meta bookings correct value with time filter"
+  },
+  "4203971": {
+    "jira_key": "RST-3505",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage source market meta room type correct value with time filter"
+  },
+  "4203972": {
+    "jira_key": "RST-3506",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage channel correct value"
+  },
+  "4203973": {
+    "jira_key": "RST-3507",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage channel blank value"
+  },
+  "4203974": {
+    "jira_key": "RST-3508",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage channel incorrect value"
+  },
+  "4203975": {
+    "jira_key": "RST-3509",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage channel with time correct value"
+  },
+  "4203976": {
+    "jira_key": "RST-3510",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage channel with time blank value"
+  },
+  "4203977": {
+    "jira_key": "RST-3511",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage channel with time incorrect value"
+  },
+  "4203984": {
+    "jira_key": "RST-3512",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage group correct value"
+  },
+  "4203985": {
+    "jira_key": "RST-3513",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage group blank value"
+  },
+  "4203986": {
+    "jira_key": "RST-3514",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage group incorrect value"
+  },
+  "4203987": {
+    "jira_key": "RST-3515",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage group meta correct value"
+  },
+  "4203988": {
+    "jira_key": "RST-3516",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage group meta blank value"
+  },
+  "4203989": {
+    "jira_key": "RST-3517",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "vdd voyage group meta incorrect value"
+  },
+  "4204075": {
+    "jira_key": "RST-3518",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "rev metrics without filter"
+  },
+  "4204076": {
+    "jira_key": "RST-3519",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "rev metrics with filter"
+  },
+  "4204077": {
+    "jira_key": "RST-3520",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "rev trends without filter"
+  },
+  "4204078": {
+    "jira_key": "RST-3521",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "rev trends with filter"
+  },
+  "4204079": {
+    "jira_key": "RST-3522",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "rev opp without filter"
+  },
+  "4204080": {
+    "jira_key": "RST-3523",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "rev opp with filter"
+  },
+  "4204081": {
+    "jira_key": "RST-3524",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "promo analysis without filter"
+  },
+  "4204082": {
+    "jira_key": "RST-3525",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "promo analysis with filter"
+  },
+  "4204083": {
+    "jira_key": "RST-3526",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "all perf endpoints with shipclasses valid option"
+  },
+  "4204084": {
+    "jira_key": "RST-3527",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "all perf endpoints with shipclasses blank"
+  },
+  "4204085": {
+    "jira_key": "RST-3528",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "all perf endpoints with shipclasses invalid option"
+  },
+  "4204086": {
+    "jira_key": "RST-3529",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "all perf endpoints with ship valid option"
+  },
+  "4204087": {
+    "jira_key": "RST-3530",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "all perf endpoints with ship blank"
+  },
+  "4204088": {
+    "jira_key": "RST-3531",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "all perf endpoints with ship invalid option"
+  },
+  "4204089": {
+    "jira_key": "RST-3532",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "all perf endpoints with bookingHorizons valid option"
+  },
+  "4204090": {
+    "jira_key": "RST-3533",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "all perf endpoints with bookingHorizons blank"
+  },
+  "4204091": {
+    "jira_key": "RST-3534",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "all perf endpoints with bookingHorizons invalid option"
+  },
+  "4204092": {
+    "jira_key": "RST-3535",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "all perf endpoints with regions valid option"
+  },
+  "4204093": {
+    "jira_key": "RST-3536",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "all perf endpoints with regions blank"
+  },
+  "4204094": {
+    "jira_key": "RST-3537",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "all perf endpoints with regions invalid option"
+  },
+  "4204095": {
+    "jira_key": "RST-3538",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "all perf endpoints with market valid option"
+  },
+  "4204096": {
+    "jira_key": "RST-3539",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "all perf endpoints with market blank"
+  },
+  "4204097": {
+    "jira_key": "RST-3540",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "all perf endpoints with market invalid option"
+  },
+  "4204098": {
+    "jira_key": "RST-3541",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "all perf endpoints with voyageLengths valid option"
+  },
+  "4204099": {
+    "jira_key": "RST-3542",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "all perf endpoints with voyageLengths blank"
+  },
+  "4204100": {
+    "jira_key": "RST-3543",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "all perf endpoints with voyageLengths invalid option"
+  },
+  "4204101": {
+    "jira_key": "RST-3544",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "all perf endpoints with metaCategory valid option"
+  },
+  "4204102": {
+    "jira_key": "RST-3545",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "all perf endpoints with metaCategory blank"
+  },
+  "4204103": {
+    "jira_key": "RST-3546",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "all perf endpoints with metaCategory invalid option"
+  },
+  "4391011": {
+    "jira_key": "RST-3583",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config currencies"
+  },
+  "4391012": {
+    "jira_key": "RST-3584",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config meta categories"
+  },
+  "4391013": {
+    "jira_key": "RST-3585",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config brands"
+  },
+  "4391014": {
+    "jira_key": "RST-3586",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config all ships"
+  },
+  "4391015": {
+    "jira_key": "RST-3587",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config current exchange"
+  },
+  "4391016": {
+    "jira_key": "RST-3588",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config current exchange override"
+  },
+  "4391017": {
+    "jira_key": "RST-3589",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config psuedo discount"
+  },
+  "4391018": {
+    "jira_key": "RST-3590",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config rounding rule"
+  },
+  "4391019": {
+    "jira_key": "RST-3591",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config currency conversion"
+  },
+  "4391020": {
+    "jira_key": "RST-3592",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config currency sailing freeze"
+  },
+  "4391021": {
+    "jira_key": "RST-3593",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config cabin category ladder"
+  },
+  "4391022": {
+    "jira_key": "RST-3594",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config t3 4 pricing"
+  },
+  "4391023": {
+    "jira_key": "RST-3595",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config schedule price sailing"
+  },
+  "4391024": {
+    "jira_key": "RST-3596",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config schedule price lettered voyage"
+  },
+  "4391025": {
+    "jira_key": "RST-3597",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config commission"
+  },
+  "4391026": {
+    "jira_key": "RST-3598",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config schedule price sailing blank page"
+  },
+  "4391027": {
+    "jira_key": "RST-3599",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config schedule price sailing invalid page"
+  },
+  "4391028": {
+    "jira_key": "RST-3600",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config schedule price sailing blank page size"
+  },
+  "4391029": {
+    "jira_key": "RST-3601",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config schedule price sailing invalid page size"
+  },
+  "4391030": {
+    "jira_key": "RST-3602",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config schedule price lettered voyage blank page"
+  },
+  "4391031": {
+    "jira_key": "RST-3603",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config schedule price lettered voyage invalid page"
+  },
+  "4391032": {
+    "jira_key": "RST-3604",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config schedule price lettered voyage blank page size"
+  },
+  "4391033": {
+    "jira_key": "RST-3605",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "config schedule price lettered voyage invalid page size"
+  },
+  "4391161": {
+    "jira_key": "RST-3606",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "lettered voyage"
+  },
+  "4391162": {
+    "jira_key": "RST-3607",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "lettered voyage blank page"
+  },
+  "4391163": {
+    "jira_key": "RST-3608",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "lettered voyage invalid page"
+  },
+  "4391164": {
+    "jira_key": "RST-3609",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "lettered voyage blank page size"
+  },
+  "4391165": {
+    "jira_key": "RST-3610",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "lettered voyage invalid page size"
+  },
+  "4391166": {
+    "jira_key": "RST-3611",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "lettered voyage blank startRow"
+  },
+  "4391167": {
+    "jira_key": "RST-3612",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "lettered voyage invalid startRow"
+  },
+  "4391168": {
+    "jira_key": "RST-3613",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "lettered voyage blank endRow"
+  },
+  "4391169": {
+    "jira_key": "RST-3614",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "lettered voyage invalid endRow"
+  },
+  "4391174": {
+    "jira_key": "RST-3615",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage"
+  },
+  "4391175": {
+    "jira_key": "RST-3616",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage summary"
+  },
+  "4391176": {
+    "jira_key": "RST-3617",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage summary blank startDate"
+  },
+  "4391177": {
+    "jira_key": "RST-3618",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage summary invalid startDate"
+  },
+  "4391178": {
+    "jira_key": "RST-3619",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage summary blank endDate"
+  },
+  "4391179": {
+    "jira_key": "RST-3620",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage summary invalid endDate"
+  },
+  "4391180": {
+    "jira_key": "RST-3621",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage override logs pricing"
+  },
+  "4391181": {
+    "jira_key": "RST-3622",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage override logs inventory"
+  },
+  "4391182": {
+    "jira_key": "RST-3623",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage override logs blank category"
+  },
+  "4391183": {
+    "jira_key": "RST-3624",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage override logs invalid category"
+  },
+  "4391184": {
+    "jira_key": "RST-3625",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage override logs pricing blank page"
+  },
+  "4391185": {
+    "jira_key": "RST-3626",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage override logs inventory blank page"
+  },
+  "4391186": {
+    "jira_key": "RST-3627",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage override logs pricing invalid page"
+  },
+  "4391187": {
+    "jira_key": "RST-3628",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage override logs inventory invalid page"
+  },
+  "4391188": {
+    "jira_key": "RST-3629",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage override logs pricing blank page size"
+  },
+  "4391189": {
+    "jira_key": "RST-3630",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage override logs inventory blank page size"
+  },
+  "4391190": {
+    "jira_key": "RST-3631",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage override logs pricing invalid page size"
+  },
+  "4391191": {
+    "jira_key": "RST-3632",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage override logs inventory invalid page size"
+  },
+  "4391192": {
+    "jira_key": "RST-3633",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage override logs pricing blank startDate"
+  },
+  "4391193": {
+    "jira_key": "RST-3634",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage override logs inventory blank startDate"
+  },
+  "4391194": {
+    "jira_key": "RST-3635",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage override logs pricing invalid startDate"
+  },
+  "4391195": {
+    "jira_key": "RST-3636",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage override logs inventory invalid startDate"
+  },
+  "4391196": {
+    "jira_key": "RST-3637",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage override logs pricing blank endDate"
+  },
+  "4391197": {
+    "jira_key": "RST-3638",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage override logs inventory blank endDate"
+  },
+  "4391198": {
+    "jira_key": "RST-3639",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage override logs pricing invalid endDate"
+  },
+  "4391199": {
+    "jira_key": "RST-3640",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "usage override logs inventory invalid endDate"
+  },
+  "C4101221": {
+    "jira_key": "RST-3215",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify global nav bar items"
+  },
+  "C4101222": {
+    "jira_key": "RST-3216",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify global nav bar items"
+  },
+  "C4101224": {
+    "jira_key": "RST-3217",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify global nav bar items"
+  },
+  "C4101225": {
+    "jira_key": "RST-3218",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify global nav bar items"
+  },
+  "C4101226": {
+    "jira_key": "RST-3219",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify global nav bar items"
+  },
+  "C4101227": {
+    "jira_key": "RST-3220",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user can navigate to different pages from the nav bar"
+  },
+  "C4101228": {
+    "jira_key": "RST-3224",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "verify user can navigate to different pages from the nav bar"
+  },
+  "C4101229": {
+    "jira_key": "RST-3225",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "verify user can navigate to different pages from the nav bar"
+  },
+  "C4101230": {
+    "jira_key": "RST-3226",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user can navigate to different pages from the nav bar"
+  },
+  "C4101231": {
+    "jira_key": "RST-3227",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "verify user can navigate to different pages from the nav bar"
+  },
+  "C4101232": {
+    "jira_key": "RST-3228",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user can navigate to different pages from the nav bar"
+  },
+  "C4101233": {
+    "jira_key": "RST-3229",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to open the filter component on dashboard"
+  },
+  "C4101234": {
+    "jira_key": "RST-3230",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to open the filter component on dashboard"
+  },
+  "C4101235": {
+    "jira_key": "RST-3231",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to apply and reset filters dashboard"
+  },
+  "C4101236": {
+    "jira_key": "RST-3232",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to apply and reset filters dashboard"
+  },
+  "C4101237": {
+    "jira_key": "RST-3233",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to open the filter component on dashboard"
+  },
+  "C4101238": {
+    "jira_key": "RST-3234",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to apply and reset filters dashboard"
+  },
+  "C4101240": {
+    "jira_key": "RST-3235",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify summary flex headers on dashboard"
+  },
+  "C4101241": {
+    "jira_key": "RST-3236",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify summary flex headers on dashboard"
+  },
+  "C4101246": {
+    "jira_key": "RST-3237",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify summary flex headers show the colours via API- Blue for promos"
+  },
+  "C4101258": {
+    "jira_key": "RST-3238",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify review rate breakdown chart heading default value dropdown items and navigate to pricing page"
+  },
+  "C4101259": {
+    "jira_key": "RST-3239",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify review rate breakdown chart heading default value dropdown items and navigate to pricing page"
+  },
+  "C4101260": {
+    "jira_key": "RST-3240",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify review rate breakdown chart heading default value dropdown items and navigate to pricing page"
+  },
+  "C4101263": {
+    "jira_key": "RST-3241",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the spill with pc tile can navigate the user to pricing page with filters"
+  },
+  "C4101264": {
+    "jira_key": "RST-3242",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the spill with pc tile can navigate the user to pricing page with filters"
+  },
+  "C4101265": {
+    "jira_key": "RST-3243",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the spill with tactical tile can navigate the user to pricing page with filters"
+  },
+  "C4101266": {
+    "jira_key": "RST-3244",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the spill with tactical tile can navigate the user to pricing page with filters"
+  },
+  "C4101267": {
+    "jira_key": "RST-3245",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the no change tile can navigate the user to pricing page with filters"
+  },
+  "C4101268": {
+    "jira_key": "RST-3246",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the no change tile can navigate the user to pricing page with filters"
+  },
+  "C4101269": {
+    "jira_key": "RST-3247",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the blackout tile can navigate the user to pricing page with filters"
+  },
+  "C4101270": {
+    "jira_key": "RST-3248",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the blackout tile can navigate the user to pricing page with filters"
+  },
+  "C4101271": {
+    "jira_key": "RST-3249",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the spoil with pc tile can navigate the user to pricing page with filters"
+  },
+  "C4101272": {
+    "jira_key": "RST-3250",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the spoil with pc tile can navigate the user to pricing page with filters"
+  },
+  "C4101273": {
+    "jira_key": "RST-3251",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the spoil with tactical tile can navigate the user to pricing page with filters"
+  },
+  "C4101274": {
+    "jira_key": "RST-3252",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the spoil with tactical tile can navigate the user to pricing page with filters"
+  },
+  "C4101275": {
+    "jira_key": "RST-3253",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the Opportunity breakdown component heading sub-heading and tiles"
+  },
+  "C4101279": {
+    "jira_key": "RST-3254",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify review rate breakdown chart different view by options"
+  },
+  "C4101280": {
+    "jira_key": "RST-3255",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify review rate breakdown chart different view by options"
+  },
+  "C4101283": {
+    "jira_key": "RST-3256",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify review rate breakdown chart different view by options"
+  },
+  "C4101284": {
+    "jira_key": "RST-3257",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the my priority component and user navigates to pricing page"
+  },
+  "C4101285": {
+    "jira_key": "RST-3258",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the my priority component and user navigates to pricing page"
+  },
+  "C4101286": {
+    "jira_key": "RST-3259",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the my priority component and user navigates to pricing page"
+  },
+  "C4101287": {
+    "jira_key": "RST-3260",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the pricing page components with toggle on and off"
+  },
+  "C4101288": {
+    "jira_key": "RST-3261",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the pricing page components with toggle on and off"
+  },
+  "C4101289": {
+    "jira_key": "RST-3262",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the pricing page components with toggle on and off"
+  },
+  "C4101290": {
+    "jira_key": "RST-3263",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify that the user is able to apply filters"
+  },
+  "C4101291": {
+    "jira_key": "RST-3264",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view the action modal in sailing depp dive page from action column"
+  },
+  "C4101292": {
+    "jira_key": "RST-3265",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view the action modal in pricing page from overbooking-opportunity column"
+  },
+  "C4101293": {
+    "jira_key": "RST-3266",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view the action modal in pricing page from pricing-opportunity column"
+  },
+  "C4101295": {
+    "jira_key": "RST-3267",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view the action modal in sailing depp dive page from action column"
+  },
+  "C4101296": {
+    "jira_key": "RST-3268",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view the action modal in sailing depp dive page from action column"
+  },
+  "C4101297": {
+    "jira_key": "RST-3269",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view the action modal in sailing depp dive page from action column"
+  },
+  "C4101298": {
+    "jira_key": "RST-3270",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view the action modal in sailing depp dive page from action column"
+  },
+  "C4101306": {
+    "jira_key": "RST-3271",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the pricing page- pattern finder"
+  },
+  "C4101307": {
+    "jira_key": "RST-3272",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the pricing page- pattern finder"
+  },
+  "C4101308": {
+    "jira_key": "RST-3273",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the pricing page- pattern finder"
+  },
+  "C4101311": {
+    "jira_key": "RST-3274",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify that the saved view popup elements on prio pane"
+  },
+  "C4101312": {
+    "jira_key": "RST-3647",
+    "labels": [
+      "NCL_admin",
+      "OCEANIA_admin",
+      "REGENT_admin",
+      "NCL_manager",
+      "OCEANIA_manager",
+      "REGENT_manager",
+      "NCL_analyst",
+      "OCEANIA_analyst",
+      "REGENT_analyst"
+    ],
+    "summary": "verify that user is able to add a public view"
+  },
+  "C4108883": {
+    "jira_key": "RST-3343",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to navigate to voyage deep dive page and navigate to different tabs"
+  },
+  "C4108884": {
+    "jira_key": "RST-3344",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to navigate to voyage deep dive page and navigate to different tabs"
+  },
+  "C4108885": {
+    "jira_key": "RST-3345",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to navigate to voyage deep dive page and navigate to different tabs"
+  },
+  "C4108886": {
+    "jira_key": "RST-3346",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to navigate to voyage deep dive page and navigate to different tabs"
+  },
+  "C4108887": {
+    "jira_key": "RST-3347",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the grid headers for the VI- cabin"
+  },
+  "C4108888": {
+    "jira_key": "RST-3348",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the grid headers for the VI- cabin"
+  },
+  "C4108889": {
+    "jira_key": "RST-3349",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify user is able to input and reset the data in VI- cabin"
+  },
+  "C4108890": {
+    "jira_key": "RST-3350",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify user is able to input and reset the data in VI- cabin"
+  },
+  "C4108891": {
+    "jira_key": "RST-3351",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the grid headers for the Meta- cabin"
+  },
+  "C4108892": {
+    "jira_key": "RST-3352",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the grid headers for the Meta- cabin"
+  },
+  "C4108893": {
+    "jira_key": "RST-3353",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify user is able to input and reset the data in meta- cabin"
+  },
+  "C4108894": {
+    "jira_key": "RST-3354",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify user is able to input and reset the data in meta- cabin"
+  },
+  "C4108895": {
+    "jira_key": "RST-3355",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify user is able to open action modal in meta- cabin"
+  },
+  "C4108896": {
+    "jira_key": "RST-3356",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify user is able to see the graphs in meta- cabin"
+  },
+  "C4108897": {
+    "jira_key": "RST-3357",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify user is able to see the graphs in meta- cabin"
+  },
+  "C4108898": {
+    "jira_key": "RST-3358",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify user is able to see the graphs in meta- cabin"
+  },
+  "C4108899": {
+    "jira_key": "RST-3359",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify user is able to see the graphs in meta- cabin"
+  },
+  "C4110055": {
+    "jira_key": "RST-3360",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the different components on promotions sub-tab- VI tab"
+  },
+  "C4110056": {
+    "jira_key": "RST-3361",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the different components on promotions sub-tab- VI tab"
+  },
+  "C4110057": {
+    "jira_key": "RST-3362",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the different components on promotions sub-tab- VI tab"
+  },
+  "C4110058": {
+    "jira_key": "RST-3363",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the different components on promotions sub-tab- VI tab"
+  },
+  "C4110059": {
+    "jira_key": "RST-3364",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the different components on promotions sub-tab- VI tab"
+  },
+  "C4110060": {
+    "jira_key": "RST-3365",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the different components on promotions sub-tab- VI tab"
+  },
+  "C4110061": {
+    "jira_key": "RST-3366",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the different components on promotions sub-tab- VI tab"
+  },
+  "C4110062": {
+    "jira_key": "RST-3367",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the different components on promotions sub-tab- VI tab"
+  },
+  "C4110063": {
+    "jira_key": "RST-3368",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the booking type filter on promotions sub-tab- VI tab"
+  },
+  "C4110064": {
+    "jira_key": "RST-3369",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the time filter on promotions sub-tab- VI tab"
+  },
+  "C4110065": {
+    "jira_key": "RST-3370",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the booking type and time filter on promotions sub-tab- VI tab"
+  },
+  "C4110066": {
+    "jira_key": "RST-3371",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the different components on promotions sub-tab- meta tab"
+  },
+  "C4110067": {
+    "jira_key": "RST-3372",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the different components on promotions sub-tab- meta tab"
+  },
+  "C4110068": {
+    "jira_key": "RST-3373",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the different components on promotions sub-tab- meta tab"
+  },
+  "C4110069": {
+    "jira_key": "RST-3374",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the different components on promotions sub-tab- VI tab"
+  },
+  "C4110070": {
+    "jira_key": "RST-3375",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the different components on promotions sub-tab- VI tab"
+  },
+  "C4110071": {
+    "jira_key": "RST-3376",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the different components on promotions sub-tab- VI tab"
+  },
+  "C4110072": {
+    "jira_key": "RST-3377",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the different components on promotions sub-tab- VI tab"
+  },
+  "C4110073": {
+    "jira_key": "RST-3379",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the different components on promotions sub-tab- VI tab"
+  },
+  "C4110074": {
+    "jira_key": "RST-3380",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the booking type filter on promotions sub-tab- Meta tab"
+  },
+  "C4110075": {
+    "jira_key": "RST-3381",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the time filter on promotions sub-tab- VI tab"
+  },
+  "C4110076": {
+    "jira_key": "RST-3382",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the booking type and time filter on promotions sub-tab- Meta tab"
+  },
+  "C4119003": {
+    "jira_key": "RST-3383",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify that the filters are applied user navigates to pricing page from dashboard"
+  },
+  "C4127986": {
+    "jira_key": "RST-3384",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager"
+    ],
+    "summary": "Verify the different components on promotions sub-tab- VI tab"
+  },
+  "C4127989": {
+    "jira_key": "RST-3385",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager"
+    ],
+    "summary": "Verify the different components on promotions sub-tab- VI tab"
+  },
+  "C4127992": {
+    "jira_key": "RST-3386",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to open view key metrics popup on VI tab"
+  },
+  "C4127993": {
+    "jira_key": "RST-3387",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to open view key metrics popup on Meta tab"
+  },
+  "C4127994": {
+    "jira_key": "RST-3388",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to open view key metrics popup on VI tab"
+  },
+  "C4127995": {
+    "jira_key": "RST-3389",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to open view key metrics popup on VI tab"
+  },
+  "C4127996": {
+    "jira_key": "RST-3390",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to open view key metrics popup on VI tab"
+  },
+  "C4130533": {
+    "jira_key": "RST-3391",
+    "labels": [
+      "NCL_admin",
+      "OCEANIA_admin",
+      "REGENT_admin"
+    ],
+    "summary": "verify admin is able to navigate to user tab in Admin page and search a user"
+  },
+  "C4130534": {
+    "jira_key": "RST-3392",
+    "labels": [
+      "NCL_admin",
+      "OCEANIA_admin",
+      "REGENT_admin"
+    ],
+    "summary": "verify admin is able to navigate to user tab in Admin page and search a user"
+  },
+  "C4130535": {
+    "jira_key": "RST-3393",
+    "labels": [
+      "NCL_admin",
+      "OCEANIA_admin",
+      "REGENT_admin"
+    ],
+    "summary": "verify admin is able to navigate to user tab in Admin page and search a user"
+  },
+  "C4130543": {
+    "jira_key": "RST-3394",
+    "labels": [
+      "NCL_admin",
+      "OCEANIA_admin",
+      "REGENT_admin"
+    ],
+    "summary": "verify admin is able to navigate to portfolio tab in Admin page and search a user"
+  },
+  "C4130544": {
+    "jira_key": "RST-3395",
+    "labels": [
+      "NCL_admin",
+      "OCEANIA_admin",
+      "REGENT_admin"
+    ],
+    "summary": "verify admin is able to navigate to portfolio tab in Admin page and search a user"
+  },
+  "C4130545": {
+    "jira_key": "RST-3396",
+    "labels": [
+      "NCL_admin",
+      "OCEANIA_admin",
+      "REGENT_admin"
+    ],
+    "summary": "verify admin is able to navigate to portfolio tab in Admin page and search a user"
+  },
+  "C4130584": {
+    "jira_key": "RST-3397",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view different components on Performance page"
+  },
+  "C4130585": {
+    "jira_key": "RST-3398",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view different components on Performance page"
+  },
+  "C4130586": {
+    "jira_key": "RST-3399",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view different components on Performance page"
+  },
+  "C4130587": {
+    "jira_key": "RST-3400",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view different components on Performance page"
+  },
+  "C4130588": {
+    "jira_key": "RST-3401",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view different components on Performance page"
+  },
+  "C4130589": {
+    "jira_key": "RST-3402",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view different components on Performance page"
+  },
+  "C4130590": {
+    "jira_key": "RST-3403",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to apply filters in Performance page"
+  },
+  "C4203174": {
+    "jira_key": "RST-3418",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the source market tab elements for VI tab"
+  },
+  "C4203175": {
+    "jira_key": "RST-3419",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the source market tab elements for VI tab"
+  },
+  "C4203176": {
+    "jira_key": "RST-3420",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the source market tab elements for VI tab"
+  },
+  "C4203177": {
+    "jira_key": "RST-3421",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the source market tab elements for VI tab"
+  },
+  "C4203178": {
+    "jira_key": "RST-3422",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify user can edit and reset RM analyst logs"
+  },
+  "C4203179": {
+    "jira_key": "RST-3423",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify user can edit and reset RM analyst logs"
+  },
+  "C4203180": {
+    "jira_key": "RST-3424",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify user can edit and reset RM analyst logs"
+  },
+  "C4203181": {
+    "jira_key": "RST-3425",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the source market tab elements for VI tab"
+  },
+  "C4203182": {
+    "jira_key": "RST-3426",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the source market tab with time filters for VI tab"
+  },
+  "C4203183": {
+    "jira_key": "RST-3427",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the source market tab elements for meta tab"
+  },
+  "C4203184": {
+    "jira_key": "RST-3428",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the source market tab elements for meta tab"
+  },
+  "C4203185": {
+    "jira_key": "RST-3429",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the source market tab elements for meta tab"
+  },
+  "C4203186": {
+    "jira_key": "RST-3430",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the source market tab elements for meta tab"
+  },
+  "C4203187": {
+    "jira_key": "RST-3431",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the source market tab with time filters for meta tab"
+  },
+  "C4203188": {
+    "jira_key": "RST-3432",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the source market tab with time filters for meta tab"
+  },
+  "C4203198": {
+    "jira_key": "RST-3433",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the group tab with filters for VI tab"
+  },
+  "C4203199": {
+    "jira_key": "RST-3434",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the group tab with filters for VI tab"
+  },
+  "C4203200": {
+    "jira_key": "RST-3435",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the group tab with filters for VI tab"
+  },
+  "C4203201": {
+    "jira_key": "RST-3436",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to navigate to usage page and verifies elements"
+  },
+  "C4203202": {
+    "jira_key": "RST-3437",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to navigate to usage page and verifies elements"
+  },
+  "C4203203": {
+    "jira_key": "RST-3438",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to navigate to usage page and verifies elements"
+  },
+  "C4203204": {
+    "jira_key": "RST-3439",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to navigate to usage page and select an analyst from dropdown"
+  },
+  "C4203205": {
+    "jira_key": "RST-3440",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to navigate to usage page and select a time period from dropdown"
+  },
+  "C4203206": {
+    "jira_key": "RST-3441",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to navigate to usage page and verifies elements"
+  },
+  "C4378663": {
+    "jira_key": "RST-3547",
+    "labels": [
+      "NCL_manager",
+      "OCEANIA_manager",
+      "REGENT_manager"
+    ],
+    "summary": "verify manager is able to navigate to user tab in Admin page and search a user"
+  },
+  "C4378664": {
+    "jira_key": "RST-3548",
+    "labels": [
+      "NCL_manager",
+      "OCEANIA_manager",
+      "REGENT_manager"
+    ],
+    "summary": "verify manager is able to navigate to user tab in Admin page and search a user"
+  },
+  "C4378665": {
+    "jira_key": "RST-3549",
+    "labels": [
+      "NCL_manager",
+      "OCEANIA_manager",
+      "REGENT_manager"
+    ],
+    "summary": "verify manager is able to navigate to user tab in Admin page and search a user"
+  },
+  "C4378666": {
+    "jira_key": "RST-3550",
+    "labels": [
+      "NCL_manager",
+      "OCEANIA_manager",
+      "REGENT_manager"
+    ],
+    "summary": "verify manager is able to navigate to portfolio tab in Admin page and search a user"
+  },
+  "C4378667": {
+    "jira_key": "RST-3551",
+    "labels": [
+      "NCL_manager",
+      "OCEANIA_manager",
+      "REGENT_manager"
+    ],
+    "summary": "verify manager is able to navigate to portfolio tab in Admin page and search a user"
+  },
+  "C4378668": {
+    "jira_key": "RST-3552",
+    "labels": [
+      "NCL_manager",
+      "OCEANIA_manager",
+      "REGENT_manager"
+    ],
+    "summary": "verify manager is able to navigate to portfolio tab in Admin page and search a user"
+  },
+  "C4379286": {
+    "jira_key": "RST-3553",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the optimization tile can navigate the user to pricing page with filters"
+  },
+  "C4379287": {
+    "jira_key": "RST-3554",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the optimization tile can navigate the user to pricing page with filters"
+  },
+  "C4381554": {
+    "jira_key": "RST-3555",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify review rate chart heading legend and navigate to pricing page"
+  },
+  "C4381555": {
+    "jira_key": "RST-3556",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify review rate chart heading legend and navigate to pricing page"
+  },
+  "C4381556": {
+    "jira_key": "RST-3557",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify review rate chart heading legend and navigate to pricing page"
+  },
+  "C4381609": {
+    "jira_key": "RST-3558",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to navigate to usage page and verifies usage actions monitoring sections"
+  },
+  "C4381610": {
+    "jira_key": "RST-3559",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to navigate to usage page and verifies usage actions monitoring sections"
+  },
+  "C4381611": {
+    "jira_key": "RST-3560",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to navigate to usage page and verifies usage actions monitoring sections"
+  },
+  "C4381612": {
+    "jira_key": "RST-3561",
+    "labels": [
+      "NCL_admin",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to navigate to usage page and verifies usage actions monitoring sections"
+  },
+  "C4387575": {
+    "jira_key": "RST-3562",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the group tab with filters for Meta tab"
+  },
+  "C4387576": {
+    "jira_key": "RST-3563",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the group tab with filters for Meta tab"
+  },
+  "C4387577": {
+    "jira_key": "RST-3564",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify the group tab with filters for Meta tab"
+  },
+  "C4388477": {
+    "jira_key": "RST-3565",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view different components on config page"
+  },
+  "C4388478": {
+    "jira_key": "RST-3566",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view different components on exchange rates"
+  },
+  "C4388479": {
+    "jira_key": "RST-3567",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view different components on commission"
+  },
+  "C4388480": {
+    "jira_key": "RST-3568",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view different components on tactical fare discount"
+  },
+  "C4388481": {
+    "jira_key": "RST-3569",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view different components on rounding rules"
+  },
+  "C4388482": {
+    "jira_key": "RST-3570",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view different components on backend discounts"
+  },
+  "C4388483": {
+    "jira_key": "RST-3571",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view different components on currency freeze"
+  },
+  "C4388484": {
+    "jira_key": "RST-3572",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view different components on currency exchange overrides"
+  },
+  "C4388485": {
+    "jira_key": "RST-3573",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view different components on cabin category ladder"
+  },
+  "C4388486": {
+    "jira_key": "RST-3574",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view different components on t3/4 pricing"
+  },
+  "C4388487": {
+    "jira_key": "RST-3575",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view different components on Sailings"
+  },
+  "C4388488": {
+    "jira_key": "RST-3576",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify user is able to view different components on lettered voyages"
+  },
+  "C4388489": {
+    "jira_key": "RST-3577",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the pricing page- lettered voyage"
+  },
+  "C4388490": {
+    "jira_key": "RST-3578",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the pricing page- lettered voyage"
+  },
+  "C4388492": {
+    "jira_key": "RST-3579",
+    "labels": [
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the pricing page- lettered voyage"
+  },
+  "C4388500": {
+    "jira_key": "RST-3580",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the pricing page- bulk action"
+  },
+  "C4388501": {
+    "jira_key": "RST-3581",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the pricing page- bulk action"
+  },
+  "C4388503": {
+    "jira_key": "RST-3582",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify the pricing page- bulk action"
+  },
+  "C4391488": {
+    "jira_key": "RST-3641",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify that the saved view popup elements on cabin pane- sailing inventory tab"
+  },
+  "C4391497": {
+    "jira_key": "RST-3642",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "verify that the saved view popup elements on cabin pane- meta tab"
+  },
+  "C4391516": {
+    "jira_key": "RST-3643",
+    "labels": [
+      "NCL_admin",
+      "NCL_analyst",
+      "NCL_manager",
+      "OCEANIA_admin",
+      "OCEANIA_analyst",
+      "OCEANIA_manager",
+      "REGENT_admin",
+      "REGENT_analyst",
+      "REGENT_manager"
+    ],
+    "summary": "Verify user is able to open action modal in VI- cabin"
+  }
+}
